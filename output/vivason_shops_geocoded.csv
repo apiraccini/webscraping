@@ -1,0 +1,71 @@
+shop_name,address,latitude,longitude,city,postcode
+01 - Vivason Bourg-en-Bresse,3 rue René Cassin 01000 Bourg-en-Bresse France,46.206821,5.226367,Bourg-en-Bresse,01000
+06 - Vivason Nice,20 avenue Notre-Dame 06000 Nice France,43.704077,7.268075,Nice,06000
+06 - Vivason Cagnes-sur-Mer,83 avenue de la gare 06800 Cagnes-sur-Mer France,43.662502,7.149372,Cagnes-sur-Mer,06800
+10 - Vivason Troyes,24 Rue de la République 10000 Troyes France,48.29771,4.074422,Troyes,10000
+13 - Vivason Marseille,10 boulevard baille 13006 Marseille France,43.286254,5.385543,Marseille,13006
+13 - Vivason Aubagne,28 rue de la République 13400 Aubagne France,43.292008,5.568537,Aubagne,13400
+14 - Vivason Caen,142 rue Saint-Jean 14000 Caen France,49.179387,-0.357538,Caen,14000
+21 - Vivason Dijon,33 place Bossuet 21000 Dijon France,47.319979,5.036341,Dijon,21000
+25 - Vivason Besançon,37 rue de Belfort 25000 Besançon France,47.247704,6.02834,Besançon,25000
+27 - Vivason Evreux,11 rue Chartraine 27000 Évreux France,49.02571,1.148219,Évreux,27000
+28 - Vivason Chartres,20 rue du Bois Merrain 28000 Chartres France,48.444596,1.485551,Chartres,28000
+28 - Vivason Dreux,54 - 56 grande rue Maurice Viollette 28100 Dreux France,48.736644,1.365698,Dreux,28100
+30 - Vivason Nîmes,"22, boulevard Amiral Courbet 30000 Nîmes France",43.837336,4.362865,Nîmes,30000
+31 - Vivason Toulouse,81 rue d'Alsace Lorraine 31000 Toulouse France,43.608077,1.445617,Toulouse,31000
+31 - Vivason Tournefeuille,245 rue Gaston Doumergue 31170 Tournefeuille France,43.587596,1.355197,Tournefeuille,31170
+33 - Vivason Pessac,20 Avenue Jean Jaurès 33600 Pessac France,44.806477,-0.629197,Pessac,33600
+35 - Vivason Rennes,16 boulevard de la Liberté 35000 Rennes France,48.107561,-1.677825,Rennes,35000
+37 - Vivason Tours,6 rue Marceau  37000 TOURS France,47.394644,0.684644,Tours,37000
+38 - Vivason Grenoble,23 boulevard Gambetta 38000 Grenoble France,45.188764,5.723043,Grenoble,38000
+38 - Vivason Bourgoin-Jallieu,45 rue de la liberté 38300 Bourgoin-Jallieu France,45.587922,5.277895,Bourgoin-Jallieu,38300
+44 - Vivason Nantes,6 rue de Budapest 44000 Nantes France,47.216254,-1.560225,Nantes,44000
+45 - Vivason Orléans,36-38 rue Jeanne d'Arc 45000 Orléans France,47.901407,1.903902,Orléans,45000
+45 - Vivason Montargis ,8 Rue Dorée 45200 Montargis France,47.997891,2.732989,Montargis,45200
+59 - Vivason Lille,105 rue Léon Gambetta 59000 Lille France,50.630144,3.056586,Lille,59260
+59 - Vivason Tourcoing,14-16 rue du Général Leclerc 59200 Tourcoing France,50.722993,3.160096,Tourcoing,59200
+60 - Vivason Beauvais,13 rue des Jacobins 60000 Beauvais  France,49.431034,2.084352,Beauvais,60000
+60 - Vivason Creil,34-36 rue de la République 60100 Creil France,49.25975,2.475239,Creil,60100
+60 - Vivason Compiègne,3 rue Solférino 60200 Compiègne France,49.419415,2.824058,Compiègne,60200
+67 - Vivason Strasbourg,8 place Saint Pierre le Vieux 67000 Strasbourg France,48.583166,7.739701,Strasbourg,67000
+69 - Vivason Lyon,32 rue du Président Edouard Herriot 69001 Lyon France,45.765974,4.834265,Lyon,69001
+69 - Vivason Rillieux-la-Pape,58-60 avenue de l'Europe 69140 Rillieux-la-Pape France,45.817469,4.90176,Rillieux-la-Pape,69140
+71 - Vivason Chalon-sur-Saône,"34, rue du Général Leclerc 71100 Chalon-sur-Saône France",46.782933,4.853532,Chalon-sur-Saône,71100
+72 - Vivason Le Mans,36 rue des Minimes 72000 Le Mans France,48.001683,0.197591,Le Mans,72000
+75 - Vivason Paris 4e Châtelet,8 avenue Victoria 75004 Paris France,48.857351,2.349774,Paris,75004
+75 - Vivason Paris 9e Maubeuge,59 rue de Maubeuge 75009 Paris France,48.879327,2.348026,Paris,75009
+75 - Vivason Paris 11e République,30 avenue de la République 75011 Paris France,48.865775,2.371061,Paris,75011
+75 - Vivason Paris 13e Italie,70 avenue d'Italie 75013 Paris  France,48.826773,2.356778,Paris,75013
+75 - Vivason Paris 15e Vaugirard,249 rue de Vaugirard 75015 Paris France,48.840345,2.304268,Paris,75015
+75 - Vivason Paris 17e Ternes,128 boulevard de Courcelles 75017 Paris France,48.878483,2.299188,Paris,75017
+76 - Vivason Rouen,39 rue Jeanne d'Arc 76000 Rouen France,49.444444,1.091981,Rouen,76100
+76 - Vivason Elbeuf,15 rue des Martyrs 76500 Elbeuf France,49.287927,1.007364,Elbeuf,76500
+77 - Vivason Melun,18 rue Paul Doumer 77000 Melun France,48.539661,2.660309,Melun,77000
+77 - Vivason Meaux,"41, rue du Général Leclerc 77100 Meaux France",48.959502,2.880558,Meaux,77100
+77 - Vivason Coulommiers,24 rue de la Pêcherie 77120 Coulommiers France,48.812615,3.083401,Coulommiers,77120
+77 - Vivason Fontainebleau,148 rue grande 77300 Fontainebleau France,48.407695,2.703744,Fontainebleau,77300
+78 - Vivason Versailles,"59, rue de la Paroisse 78000 Versailles France",48.806319,2.133368,Versailles,78000
+78 - Vivason Saint-Germain-en-Laye,3 rue de Pologne 78100 Saint-Germain-en-Laye France,48.89665,2.090325,Saint-Germain-en-Laye,78100
+78 - Vivason Mantes-la-Jolie,11 rue Nationale 78200 Mantes-la-Jolie France,48.990513,1.718023,Mantes-la-Jolie,78200
+83 - Vivason Toulon,44 boulevard de Strasbourg 83000 Toulon France,43.125051,5.932283,Toulon,83000
+83 - Vivason Sanary-sur-Mer,12 rue giboin 83110 Sanary-sur-Mer France,43.117186,5.805225,Sanary-sur-Mer,83110
+89 - Vivason Sens,16 place de la République 89100 Sens France,48.197601,3.283089,Sens,89100
+91 - Vivason Corbeil-Essonnes,3 Place du Comté Haymon 91100 Corbeil-Essonne France,48.612849,2.483047,Corbeil-Essonnes,91100
+91 - Vivason Palaiseau,22 rue de Paris 91120 Palaiseau France,48.717942,2.248156,Palaiseau,91120
+91 - Vivason Savigny-sur-Orge,10 boulevard Aristide Briand  91600 Savigny sur Orge  France,48.681718,2.343169,Savigny-sur-Orge,91600
+91 - Vivason Sainte-Geneviève-des-Bois,32 avenue Gabriel Péri 91700 Sainte-Geneviève-des-Bois France,48.651568,2.316525,Sainte-Geneviève-des-Bois,91700
+91 - Vivason Brunoy,11 grande Rue 91800 Brunoy France,48.698134,2.50309,Brunoy,91800
+92 - Vivason Clichy-la-Garenne,90 boulevard Jean Jaurès 92110 Clichy France,48.903336,2.303679,Clichy,92110
+92 - Vivason Antony,2 rue Auguste Mounié 92160 Antony France,48.75353,2.304868,Antony,92160
+92 - Vivason Vanves,1 avenue Victor Hugo 92170 Vanves France,48.822186,2.285352,Vanves,92170
+92 - Vivason Neuilly-sur-Seine,26 avenue Charles de Gaulle 92200 Neuilly-sur-Seine France,48.879309,2.278668,Neuilly-sur-Seine,92200
+92 - Vivason Rueil Malmaison,1 bis rue de la Réunion 92500 Rueil-Malmaison France,48.878456,2.178081,Rueil-Malmaison,92500
+93 - Vivason Montreuil,58 boulevard Rouget de Lisle 93100 Montreuil France,48.858948,2.437559,Montreuil,93100
+93 - Vivason Livry-Gargan,18 boulevard de Chanzy 93190 Livry-Gargan France,48.909426,2.518843,Livry-Gargan,93190
+93 - Vivason Aulnay-sous-Bois,18 boulevard de Strasbourg 93600 Aulnay-sous-Bois France,48.928945,2.491956,Aulnay-sous-Bois,93600
+93 - Vivason Drancy,90 avenue Henri Barbusse 93700 Drancy France,48.918265,2.448336,Drancy,93700
+94 - Vivason Créteil ,2 avenue du Maréchal de Lattre de Tassigny 94000 Créteil France,48.795429,2.459103,Créteil,94000
+94 - Vivason Vincennes,109 rue de Fontenay 94300 Vincennes France,48.848317,2.435135,Vincennes,94300
+95 - Vivason Argenteuil,76 avenue Gabriel Péri 95100 Argenteuil France,48.94577,2.249543,Argenteuil,95100
+95 - Vivason Cergy-Pontoise (Osny),16 rue du Petit Albi  Centre de Santé 95520 Osny France,49.054133,2.043534,Osny,95520
+95 - Vivason Enghien-les-Bains,15 rue du Général de Gaulle 95880 Enghien-Les-Bains France,48.972035,2.309116,Enghien-les-Bains,95880

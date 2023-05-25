@@ -1,0 +1,589 @@
+shop_name,address,latitude,longitude,city,postcode
+Audioprothésiste Audika Bourg-en-Bresse,16 Boulevard de Brou - 01000 Bourg-en-Bresse (Ain),46.204853,5.229367,Bourg-en-Bresse,01000
+Audioprothésiste Audika Chatillon-sur-Chalaronne,100 Rue Pasteur - 01400 Châtillon-sur-Chalaronne (Ain),46.119722,4.955721,Châtillon-sur-Chalaronne,01400
+Audioprothésiste Audika Château-Thierry,3 Place de l'Hôtel de Ville - 02400 Château-Thierry (Aisne),49.045511,3.402932,Château-Thierry,02400
+Audioprothésiste Audika Saint-Quentin,13 Rue Emile Zola - 02100 Saint-Quentin (Aisne),49.846515,3.286195,Saint-Quentin,02100
+Audioprothésiste Audika Soissons,16 Rue du Collège - 02200 Soissons (Aisne),49.38227,3.325836,Soissons,02200
+Audioprothésiste Audika Montluçon,41 Rue du Faubourg Saint-Pierre - 03100 Montluçon (Allier),46.342427,2.601062,Montluçon,03100
+Audioprothésiste Audika Moulins,4 Rue d'Allier - 03000 Moulins (Allier),46.564873,3.331488,Moulins,03000
+Audioprothésiste Audika Vichy,19 Rue de Paris - 03200 Vichy (Allier),46.12635,3.424703,Vichy,03200
+Audioprothésiste Audika Digne-les-bains,18 Boulevard Gassendi - 04000 Digne-les-bains (Alpes-de-Haute-Provence),44.091652,6.232948,Digne-les-Bains,04000
+"Audioprothésiste Audika Manosque, Chrimalyde","Avenue du Docteur Bernard, Foussier - Espace Chrimalyde - 04100 Manosque (Alpes-de-Haute-Provence)",43.828221,5.804526,Manosque,04100
+"Audioprothésiste Audika Manosque, Jean Giono",16-18 Avenue Jean Giono - 04100 Manosque (Alpes-de-Haute-Provence),43.829917,5.7851,Manosque,04100
+Audioprothésiste Audika Sisteron,137 Avenue Paul Arène - 04200 Sisteron (Alpes-de-Haute-Provence),44.196538,5.943122,Sisteron,04200
+Audioprothésiste Audika Antibes,3 Boulevard Dugommier - 06600 Antibes (Alpes Maritimes),43.580835,7.119667,Antibes,06600
+Audioprothésiste Audika Cagnes-sur-mer,32 Boulevard du Maréchal Juin - 06800 Cagnes-sur-mer (Alpes Maritimes),43.658754,7.15068,Cagnes-sur-Mer,06800
+Audioprothésiste Audika Cannes,11 Boulevard Carnot - 06400 Cannes (Alpes Maritimes),43.555278,7.016777,Cannes,06400
+Audioprothésiste Audika Cannes-la-Bocca,109 Avenue Francis Tonner - Cannes-la-Bocca - 06150 Cannes (Alpes Maritimes),43.552852,7.017365,Cannes,06400
+Audioprothésiste Audika Carros,7 Avenue des Cigales - 06510 Carros (Alpes Maritimes),43.771656,7.191819,Carros,06510
+Audioprothésiste Audika Grasse,2 Chemin des Basses Moulières - 06130 Grasse (Alpes Maritimes),43.638912,6.911664,Grasse,06130
+Audioprothésiste Audika Mandelieu-la-Napoule,731 Avenue Janvier Passero - Les Jardins Fleuris - 06210 Mandelieu-la-Napoule (Alpes Maritimes),43.552967,6.937646,Mandelieu-la-Napoule,06210
+Audioprothésiste Audika Menton,4 Rue Prato - 06500 Menton (Alpes Maritimes),43.773969,7.499607,Menton,06500
+Audioprothésiste Audika Mougins,80 Allée des Ormes - 06250 Mougins (Alpes Maritimes),43.610841,7.013537,Mougins,06250
+Audioprothésiste Audika Nice,26 Rue de Paris - 06000 Nice (Alpes Maritimes),43.704539,7.266437,Nice,06000
+"Audioprothésiste Audika Nice, Hôtel des Postes",32 Rue de l'Hôtel des Postes - 06000 Nice (Alpes Maritimes),43.699247,7.270408,Nice,06000
+"Audioprothésiste Audika Nice, Jean Médecin",9 Rue Alphonse Karr - 06000 Nice (Alpes Maritimes),43.699083,7.26549,Nice,06000
+"Audioprothésiste Audika Nice, Ouest",23 Avenue Saint-Augustin - 06200 Nice (Alpes Maritimes),43.968662,6.508838,Saint-André-les-Alpes,04170
+Audioprothésiste Audika Roquebrune-Cap-Martin,246 Avenue Aristide Briand - 06190 Roquebrune-Cap-Martin (Alpes Maritimes),43.765183,7.48618,Roquebrune-Cap-Martin,06190
+Audioprothésiste Audika Vence,Place du Grand Jardin - Résidence Le Villeneuve - 06140 Vence (Alpes Maritimes),43.722022,7.111895,Vence,06140
+Audioprothésiste Audika Alissas,5 Place des Erables - 07210 Alissas (Ardèche),44.714943,4.631627,Alissas,07210
+Audioprothésiste Audika Annonay,30 Avenue Sadi Carnot - 07100 Annonay (Ardèche),45.242618,4.671989,Annonay,07100
+Audioprothésiste Audika Joyeuse,Place de la Gare - Centre Commercial Carrefour - Chez Optic 2000 - Opticiens Cevenols - 07260 Joyeuse (Ardèche),44.480253,4.241334,Joyeuse,07260
+Audioprothésiste Audika Privas,18 Cours de l'Esplanade - 07000 Privas (Ardèche),44.734861,4.597165,Privas,07000
+Audioprothésiste Audika Saint-Didier-sous-Aubenas,Les Terres de Millet - 07200 Saint-Didier-sous-Aubenas (Ardèche),44.613366,4.412201,Saint-Didier-sous-Aubenas,07200
+Audioprothésiste Audika Charleville,14 Rue Flandre - 08000 Charleville (Ardennes),49.774321,4.717586,Charleville-Mézières,08000
+Audioprothésiste Audika Sedan,3 Place Crussy - 08200 Sedan (Ardennes),49.700224,4.946743,Sedan,08200
+Audioprothésiste Audika Vouziers,16 Rue Chervin - 08400 Vouziers (Ardennes),49.398188,4.702133,Vouziers,08400
+Audioprothésiste Audika Pamiers,27 bis Route de Toulouse - 09100 Pamiers (Ariège),43.126529,1.610467,Pamiers,09100
+Audioprothésiste Audika Saint-Girons,7 Avenue Henri Bernère - 09200 Saint-Girons (Ariège),42.986833,1.14361,Saint-Girons,09200
+Audioprothésiste Audika Troyes,21 Avenue Pierre Brossolette - 10000 Troyes (Aube),48.29169,4.075048,Troyes,10000
+Audioprothésiste Audika Troyes Ragueneau,31 Rue Marie Pascale Ragueneau - 10000 Troyes (Aube),48.292987,4.07039,Troyes,10000
+Audioprothésiste Audika Carcassonne,31 Rue Antoine Marty - 11000 Carcassonne (Aude),43.216213,2.357747,Carcassonne,11000
+Audioprothésiste Audika Lezignan,28 Rue des Romains - 11200 Lezignan (Aude),43.185905,2.756051,Lézignan-Corbières,11200
+Audioprothésiste Audika Limoux,21 Rue Jean Jaurès - 11300 Limoux (Aude),43.054751,2.216741,Limoux,11300
+Audioprothésiste Audika Narbonne,43 Boulevard du Général de Gaulle - 11100 Narbonne (Aude),43.184115,3.008701,Narbonne,11100
+Audioprothésiste Audika Capdenac,3 Avenue Charles de Gaulle - 12700 Capdenac (Aveyron),44.576738,2.078513,Capdenac-Gare,12700
+Audioprothésiste Audika Villefranche-de-Rouergue,12 Boulevard Charles de Gaulle - 12200 Villefranche de Rouergue (Aveyron),44.351841,2.034258,Villefranche-de-Rouergue,12200
+Audioprothésiste Audika Haguenau Europe,40 Boulevard de l'Europe - 67500 Haguenau (Bas-Rhin),48.818323,7.783336,Haguenau,67500
+Audioprothésiste Audika Illkirch Graffenstaden,145 Route de Lyon - 67400 Illkirch Graffenstaden (Bas-Rhin),48.53129,7.714367,Illkirch-Graffenstaden,67400
+Audioprothésiste Audika Ingwiller,48 Rue du Maréchal Foch - 67340 Ingwiller (Bas-Rhin),48.872136,7.4795,Ingwiller,67340
+Audioprothésiste Audika Obernai,34 Rue du Général Gouraud - 67210 Obernai (Bas-Rhin),48.462314,7.485245,Obernai,67210
+Audioprothésiste Audika Saverne,6 Grand'Rue - 67700 Saverne (Bas-Rhin),48.743375,7.358927,Saverne,67700
+Audioprothésiste Audika Schiltigheim,87 Route de Bischwiller - 67300 Schiltigheim (Bas-Rhin),48.609021,7.750295,Schiltigheim,67300
+Audioprothésiste Audika Strasbourg Gare,66 Rue du Faubourg National - 67000 Strasbourg (Bas-Rhin),48.582355,7.7345,Strasbourg,67000
+Audioprothésiste Audika Strasbourg Nuée Bleue,9 Rue de la Nuée Bleue - 67000 Strasbourg (Bas-Rhin),48.586171,7.747046,Strasbourg,67000
+Audioprothésiste Audika Truchtersheim,6 Rue de la galerie - 67370 Truchtersheim (Bas-Rhin),48.655681,7.6068,Truchtersheim,67370
+"Audioprothésiste Audika Aix-en-Provence, Carnot",2 Boulevard Carnot - 13100 Aix-en-Provence (Bouches-du-Rhône),43.525016,5.4545,Aix-en-Provence,13100
+"Audioprothésiste Audika Aix-en-Provence, Pont de l'Arc",207 Avenue Fortuné Ferrini - 13090 Aix-en-Provence (Bouches-du-Rhône),43.529743,5.447434,Aix-en-Provence,13100
+"Audioprothésiste Audika Aix-en-Provence, Rotonde",7 Boulevard de la république - 13100 Aix-en-Provence (Bouches-du-Rhône),43.527525,5.442725,Aix-en-Provence,13100
+Audioprothésiste Audika Arles,3 Rue Yvan Audouard - Atelier des Roues - 13200 Arles (Bouches-du-Rhône),43.673358,4.639123,Arles,13200
+Audioprothésiste Audika Aubagne Centre,7 Avenue Loulou Delfieu - 13400 Aubagne (Bouches-du-Rhône),43.292549,5.566279,Aubagne,13400
+Audioprothésiste Audika Aubagne Nord,3 Route Nationale 396 - 13400 Aubagne (Bouches-du-Rhône),43.325896,5.596342,Aubagne,13400
+Audioprothésiste Audika Bouc Bel Air,Avenue de la Gratiane - 13320 Bouc-Bel-Air (Bouches-du-Rhône),43.459296,5.412832,Bouc-Bel-Air,13320
+Audioprothésiste Audika Cassis,"7 Chemin du Mont Gibaou, Parc d'activités du Bregadan - Institut de médecine de Cassis - 13260 Cassis (Bouches-du-Rhône)",43.227546,5.533735,Cassis,13260
+Audioprothésiste Audika Gardanne,23 Cours Forbin - 13120 Gardanne (Bouches-du-Rhône),43.454367,5.470413,Gardanne,13120
+Audioprothésiste Audika La Bouilladisse,280 Avenue de la Malvesine - 13720 La Bouilladisse (Bouches-du-Rhône),43.386588,5.603004,La Bouilladisse,13720
+Audioprothésiste Audika La Ciotat,131 Avenue Ernest Subilia - Le Vallat - 13600 La Ciotat (Bouches-du-Rhône),43.183321,5.61112,La Ciotat,13600
+"Audioprothésiste Audika Marseille, Baille",143 Boulevard Baille - 13005 Marseille (Bouches-du-Rhône),43.288751,5.394133,Marseille,13005
+"Audioprothésiste Audika Marseille, Gabriel Péri",1 Place Gabriel Péri - La Canebière - 13001 Marseille (Bouches-du-Rhône),43.295805,5.374889,Marseille,13001
+"Audioprothésiste Audika Marseille, Haïfa",64 Avenue Haïfa - Hermès Park - 13008 Marseille (Bouches-du-Rhône),43.251457,5.390276,Marseille,13008
+"Audioprothésiste Audika Marseille, Grand Littoral",Centre commercial Grand Littoral - 13016 Marseille (Bouches-du-Rhône),43.358432,5.326149,Marseille,13016
+"Audioprothésiste Audika Marseille, Sébastopol",1 Place Sébastopol - 13004 Marseille (Bouches-du-Rhône),43.299701,5.397174,Marseille,13004
+"Audioprothésiste Audika Marseille, Saint-Barnabé",25 Avenue Montaigne - 13012 Marseille (Bouches-du-Rhône),43.304219,5.415201,Marseille,13012
+"Audioprothésiste Audika Marseille, Sainte-Marguerite",6 Rue Augustin Aubert - 13009 Marseille (Bouches-du-Rhône),43.265002,5.403769,Marseille,13009
+"Audioprothésiste Audika Marseille, Saint-Giniez",8 Avenue de Mazargues - 13008 Marseille (Bouches-du-Rhône),43.269734,5.387954,Marseille,13008
+Audioprothésiste Audika Plan-de-Cuques,5 Mail du Général de Gaulle - 13380 Plan-de-Cuques (Bouches-du-Rhône),43.346283,5.465467,Plan-de-Cuques,13380
+Audioprothésiste Audika Port-de-Bouc,30 Place du Docteur Igonet - Centre commercial Respélido - Anciennement Avenue Charles Nedelec - 13110 Port-de-Bouc (Bouches-du-Rhône),43.406389,4.98332,Port-de-Bouc,13110
+Audioprothésiste Audika Saint-Victoret,250 Boulevard Barthelemy Abbadie - 13730 Saint-Victoret (Bouches-du-Rhône),43.4197,5.237122,Saint-Victoret,13730
+Audioprothésiste Audika Salon-de-Provence,124 Allée de Craponne - 13300 Salon-de-Provence (Bouches-du-Rhône),43.636726,5.09939,Salon-de-Provence,13300
+Audioprothésiste Audika Sausset-les-Pins,1 Avenue Clément Monnier - 13960 Sausset Les Pins (Bouches-du-Rhône),43.331096,5.111226,Sausset-les-Pins,13960
+Audioprothésiste Audika Bayeux,5 Place Saint-Patrice - 14400 Bayeux (Calvados),49.279202,-0.70823,Bayeux,14400
+Audioprothésiste Audika Caen,69 Rue de Bernières - 14000 Caen (Calvados),49.18191,-0.360103,Caen,14000
+"Audioprothésiste Audika Caen, Carpiquet","Résidence le Val, Route de Bretteville - 14650 Carpiquet (Calvados)",49.180934,-0.440128,Carpiquet,14650
+Audioprothésiste Audika Lisieux,42 Place de la République - 14100 Lisieux (Calvados),49.144063,0.224241,Lisieux,14100
+Audioprothésiste Audika Aurillac,8 bis Place du Square - 15000 Aurillac (Cantal),44.927856,2.444235,Aurillac,15000
+Audioprothésiste Audika Saint-Flour,43 Avenue du Lioran - 15100 Saint-Flour (Cantal),45.037324,3.06889,Saint-Flour,15100
+Audioprothésiste Audika Angouleme,1 Boulevard de la République - 16000 Angouleme (Charente),45.651587,0.163514,Angoulême,16000
+Audioprothésiste Audika Cognac,23 Avenue d'Angoulême - 16100 CHATEAUBERNARD (Charente),45.685921,-0.30587,Châteaubernard,16100
+Audioprothésiste Audika Ruffec,9 Avenue de la République - 16700 Ruffec (Charente),46.027416,0.199099,Ruffec,16700
+Audioprothésiste Audika Chatelaillon,3 Rue du Docteur Barraud - 17340 Chatelaillon (Charente-Maritime),46.075095,-1.093444,Châtelaillon-Plage,17340
+Audioprothésiste Audika Jonzac,"BAT A - Parc Commercial de la Source, Avenue du 57ème Régiment de l'Infanterie - 17500 Jonzac (Charente-Maritime)",45.447103,-0.446079,Jonzac,17500
+Audioprothésiste Audika La Rochelle Cognehors,71 bis Boulevard de Cognehors - Résidence Villa Royale - 17000 La Rochelle (Charente-Maritime),46.168156,-1.141785,La Rochelle,17000
+Audioprothésiste Audika La Rochelle Genette,67 Avenue de Coligny - 17000 La Rochelle (Charente-Maritime),46.160045,-1.165783,La Rochelle,17000
+Audioprothésiste Audika Rochefort,55 bis Rue du Docteur Peltier - 17300 Rochefort (Charente-Maritime),45.937696,-0.963959,Rochefort,17300
+Audioprothésiste Audika Royan,28 Rue du Font de Cherves - (Face au marché) - 17200 Royan (Charente-Maritime),45.627386,-1.030272,Royan,17200
+Audioprothésiste Audika Saint-Jean-d'Angely,23 Rue de l'Hôtel de Ville - 17400 Saint-Jean-d'Angely (Charente-Maritime),45.94453,-0.51907,Saint-Jean-d'Angély,17400
+Audioprothésiste Audika Surgeres,68 Avenue Audry de Puyravault - 17700 Surgeres (Charente-Maritime),46.133596,-0.809274,Puyravault,17700
+Audioprothésiste Audika Bourges,43 Rue d'Auron - 18000 Bourges (Cher),47.081662,2.393224,Bourges,18000
+Audioprothésiste Audika Sancoins,8 Rue Fernand Duruisseau - 18600 Sancoins (Cher),46.831483,2.919684,Sancoins,18600
+Audioprothésiste Audika Vierzon,"Chemin de l'Ardillat, l'Orée de Sologne - 18100 Vierzon (Cher)",47.237527,2.090844,Vierzon,18100
+Audioprothésiste Audika Bort-les-Orgues,2/6 Avenue de la Gare - 19110 Bort-les-Orgues (Corrèze),45.400317,2.499716,Bort-les-Orgues,19110
+Audioprothésiste Audika Brive,6 Boulevard Jules Ferry - 19100 Brive (Corrèze),45.372769,1.878594,Corrèze,19800
+Audioprothésiste Audika Ussel,1 Boulevard Treich Laplène - 19200 Ussel (Corrèze),45.547903,2.310606,Ussel,19200
+Audioprothésiste Audika Beaune,21 Rue d'Alsace - 2 Rue Thiers - 21200 Beaune (Côte-d'Or),47.022385,4.839621,Beaune,21200
+Audioprothésiste Audika Chenove,14 Rue de Marsannay - 21300 Chenove (Côte-d'Or),47.292512,5.009303,Chenôve,21300
+Audioprothésiste Audika Dijon,19 Rue du Chapeau Rouge - 21000 Dijon (Côte-d'Or),47.321412,5.036655,Dijon,21000
+Audioprothésiste Audika Dijon Vaillant,1 rue du Général Fauconnet - 21000 Dijon (Côte-d'Or),47.330008,5.043001,Dijon,21000
+Audioprothésiste Audika Dinan,23 Rue Thiers - 22100 Dinan (Côtes d'Armor),48.455661,-2.049439,Dinan,22100
+Audioprothésiste Audika Guingamp,49 Rue Notre Dame - 22200 Guingamp (Côtes d'Armor),48.560796,-3.149035,Guingamp,22200
+Audioprothésiste Audika Lannion,1 Rue Georges Palante - Rond Point Saint-Elivet - 22300 Lannion (Côtes d'Armor),48.726033,-3.445484,Lannion,22300
+Audioprothésiste Audika Loudeac,9 Rue de Cadelac - 22600 Loudeac (Côtes d'Armor),48.17664,-2.754929,Loudéac,22600
+Audioprothésiste Audika Paimpol,Rond-point du Goëlo - 22500 Paimpol (Côtes d'Armor),48.77852,-3.04387,Paimpol,22500
+Audioprothésiste Audika Plerin,1 Rue de l'Arrivée - 22190 Plerin (Côtes d'Armor),48.548852,-2.793461,Plérin,22190
+Audioprothésiste Audika Saint-Brieuc,14 Rue Sainte-Barbe - 22000 Saint-Brieuc (Côtes d'Armor),48.51215,-2.761104,Saint-Brieuc,22000
+Audioprothésiste Audika Gueret,5 Avenue de la Sénatorerie - 23000 Gueret (Creuse),46.167828,1.869831,Guéret,23000
+Audioprothésiste Audika Bressuire,8 Avenue René Héry - 79300 Bressuire (Deux-Sèvres),46.841513,-0.492821,Bressuire,79300
+Audioprothésiste Audika Niort,11 Avenue des Martyrs de la Résistance - 79000 Niort (Deux-Sèvres),46.323409,-0.456735,Niort,79000
+Audioprothésiste Audika Parthenay,86 Avenue du Général de Gaulle - 79200 Parthenay (Deux-Sèvres),46.648252,-0.242728,Parthenay,79200
+Audioprothésiste Audika Bergerac,39 Place Gambetta - 24100 Bergerac (Dordogne),44.855406,0.483063,Bergerac,24100
+Audioprothésiste Audika Perigueux,59 Rue Gambetta - 24000 Perigueux (Dordogne),45.187377,0.712347,Périgueux,24000
+Audioprothésiste Audika Sarlat,6 Avenue Aristide Briand - 24200 Sarlat (Dordogne),44.881311,1.217072,Sarlat-la-Canéda,24200
+Audioprothésiste Audika Besancon,49 Avenue de Belfort - 25000 Besançon (Doubs),47.248286,6.029567,Besançon,25000
+Audioprothésiste Audika Montbeliard,42 Rue des Halles - 25200 Montbeliard (Doubs),47.509175,6.794376,Montbéliard,25200
+"Audioprothésiste Audika Montbeliard, Hotel de Ville",1 Rue de l'Hotel de Ville - 25200 Montbéliard (Doubs),47.509766,6.798191,Montbéliard,25200
+Audioprothésiste Audika Pontarlier,33 Avenue de la Libération - City Park - 25300 Pontarlier (Doubs),46.909969,6.339812,Pontarlier,25300
+Audioprothésiste Audika Dieulefit,16 Place Chateauras - 26220 Dieulefit (Drôme),44.523224,5.065331,Dieulefit,26220
+Audioprothésiste Audika Montélimar,19 Avenue Jean Jaurès - 26200 Montelimar (Drôme),44.550448,4.747502,Montélimar,26200
+Audioprothésiste Audika Montélimar Pierre Julien,5 Rue Pierre Julien - 26200 Montelimar (Drôme),44.555728,4.749626,Montélimar,26200
+Audioprothésiste Audika Romans-sur-Isère,58 Avenue Gambetta - 26100 Romans-sur-Isère (Drôme),45.045532,5.060437,Romans-sur-Isère,26100
+Audioprothésiste Audika Valence,18 Avenue Pierre Semard - 26000 Valence (Drôme),44.928372,4.891805,Valence,26000
+Audioprothésiste Audika Arpajon,102 Grande Rue - 91290 Arpajon (Essonne),48.5887,2.248377,Arpajon,91290
+Audioprothésiste Audika Corbeil-Essonnes,22 Rue de Paris - 91100 Corbeil-Essonnes (Essonne),48.604124,2.46783,Corbeil-Essonnes,91100
+Audioprothésiste Audika Longjumeau,10 ter Rue de Chilly - 91160 Longjumeau (Essonne),48.697397,2.296525,Longjumeau,91160
+Audioprothésiste Audika Montgeron,95 Avenue de la République - 91230 Montgeron (Essonne),48.704343,2.460378,Montgeron,91230
+Audioprothésiste Audika Palaiseau,76 Rue de Paris - 91120 Palaiseau (Essonne),48.715489,2.246205,Palaiseau,91120
+Audioprothésiste Audika Sainte-Genevieve-des-bois,61 Avenue Gabriel Peri - 91700 Sainte-Genevieve-des-bois (Essonne),48.649923,2.318867,Sainte-Geneviève-des-Bois,91700
+Audioprothésiste Audika Evreux,89 Rue Joséphine - 27000 Evreux (Eure),49.025249,1.145806,Évreux,27000
+Audioprothésiste Audika Chartres,55 ter Rue du Grand Faubourg - 28000 Chartres (Eure-et-Loir),48.44282,1.479933,Chartres,28000
+Audioprothésiste Audika Chateaudun,37 Rue de la République - 28200 Châteaudun (Eure-et-Loir),48.07057,1.332095,Châteaudun,28200
+Audioprothésiste Audika Dreux,37 Rue Rotrou - 28100 Dreux (Eure-et-Loir),48.736821,1.365857,Dreux,28100
+Audioprothésiste Audika Brest,8 Rue Glasgow - 29200 Brest (Finistère),48.391844,-4.485072,Brest,29200
+Audioprothésiste Audika Brest Pasteur,35 Rue Louis Pasteur - 29200 Brest (Finistère),48.387848,-4.490552,Brest,29200
+Audioprothésiste Audika Carhaix-Plouguer,28 bis Avenue des Martyrs - 29270 Carhaix-Plouguer (Finistère),48.276548,-3.569266,Carhaix-Plouguer,29270
+Audioprothésiste Audika Chateauneuf-du-Faou,5 Rue Morlaix - 29520 Chateauneuf-du-Faou (Finistère),48.194329,-3.820511,Châteauneuf-du-Faou,29520
+Audioprothésiste Audika Landerneau,17 Avenue de la Tour d'Auvergne - 29800 Landerneau (Finistère),48.451204,-4.248422,Landerneau,29800
+Audioprothésiste Audika Lesneven,1 Avenue de la Marne - 29260 Lesneven (Finistère),48.571732,-4.323429,Lesneven,29260
+Audioprothésiste Audika Morlaix,28 Avenue de Brest - 29600 Morlaix (Finistère),48.575897,-3.828783,Morlaix,29600
+Audioprothésiste Audika Quimper,52 quai de l'Odet - 29000 Quimper (Finistère),47.992273,-4.109386,Quimper,29000
+Audioprothésiste Audika Quimperlé,11 Rue du Bourgneuf - 29300 Quimperlé (Finistère),47.870537,-3.544195,Quimperlé,29300
+Audioprothésiste Audika Rosporden,8 Rue Boulouard - 29140 Rosporden (Finistère),47.958944,-3.830728,Rosporden,29140
+Audioprothésiste Audika Saint-Renan,Place Docteur Guyader - 29290 Saint-Renan (Finistère),48.433781,-4.620185,Saint-Renan,29290
+Audioprothésiste Audika Tregunc,2 bis Rue de Pont-Aven - 29910 Tregunc (Finistère),47.855176,-3.851915,Trégunc,29910
+Audioprothésiste Audika Douarnenez,13 Rue Dugay Trouin - 29100 Douarnenez (Finistère),48.092682,-4.329769,Douarnenez,29100
+Audioprothésiste Audika Guilvinec,2 Rue de Men Meur - 29730 Guilvinec (Finistère),47.793944,-4.28429,Guilvinec,29730
+Audioprothésiste Audika Le Relecq-Kerhuon,7 Place du 8 Mai 1945 - 29480 Le Relecq-Kerhuon (Finistère),48.407733,-4.398425,Le Relecq-Kerhuon,29480
+Audioprothésiste Audika Pont l'Abbé,30 Place de la République - 29120 Pont l'Abbé (Finistère),47.865239,-4.22451,Pont-l'Abbé,29120
+Audioprothésiste Audika Avignon Les Angles,150 Place Céréalis - Résidence Le Cérés - 30133 Les Angles (Gard),43.955628,4.771306,Les Angles,30133
+Audioprothésiste Audika Ales,1 Avenue Beauteville - 30100 Ales (Gard),44.123658,4.079291,Alès,30100
+Audioprothésiste Audika Nimes,13 Rue Régale - 30000 Nimes (Gard),43.835714,4.361316,Nîmes,30000
+"Audioprothésiste Audika Nimes, Carré Sud",308 Rue Paul Laurent - 30900 Nîmes (Gard),43.836696,4.360059,Nîmes,30000
+Audioprothésiste Audika Sommières,5 Place de la Libération - 30250 Sommieres (Gard),43.782224,4.087481,Sommières,30250
+Audioprothésiste Audika Auch,55 Rue de Lorraine - 32000 Auch (Gers),43.649243,0.588755,Auch,32000
+Audioprothésiste Audika Condom,15 Rue Gambetta - 32100 Condom (Gers),43.957498,0.373901,Condom,32100
+Audioprothésiste Audika Saint-Orens-de-Gameville,1 Impasse Dordac - 31650 Saint-Orens-de-Gameville (Gers),43.549475,1.536501,Saint-Orens-de-Gameville,31650
+Audioprothésiste Audika Andernos,236 Boulevard de la République - 33510 Andernos-les-Bains (Gironde),44.742856,-1.099949,Andernos-les-Bains,33510
+Audioprothésiste Audika Arcachon,37 Boulevard du Général Leclerc - 33120 Arcachon (Gironde),44.659545,-1.165307,Arcachon,33120
+Audioprothésiste Audika Arès,29 Avenue de la Plage  Résidence de la Plage - 33510 Arès (Gironde),44.742409,-1.103914,Andernos-les-Bains,33510
+Audioprothésiste Audika Biganos,42 bis Avenue de la Libération - 33380 Biganos (Gironde),44.640253,-0.973302,Biganos,33380
+Audioprothésiste Audika Bordeaux,17 Rue Edmond Michelet - 33000 Bordeaux (Gironde),44.84024,-0.581017,Bordeaux,33000
+"Audioprothésiste Audika Bordeaux, Le Bouscat",397 Boulevard du Président Wilson - (Barrière du Médoc) - 33110 Le Bouscat (Gironde),44.853608,-0.593812,Le Bouscat,33110
+"Audioprothésiste Audika Bordeaux, Les Boulevards",119 Boulevard Antoine Gautier - 33000 Bordeaux (Gironde),44.831559,-0.598644,Bordeaux,33000
+"Audioprothésiste Audika Bordeaux, Route De Toulouse",34 Route de Toulouse - 33800 Bordeaux (Gironde),43.604637,1.44421,Toulouse,31000
+Audioprothésiste Audika Gradignan,127 Cours du Général de Gaulle - 33170 Gradignan (Gironde),44.774638,-0.612556,Gradignan,33170
+Audioprothésiste Audika Gujan Mestras,35 Avenue de Césarée - 33470 Gujan Mestras (Gironde),44.629708,-1.072251,Gujan-Mestras,33470
+"Audioprothésiste Audika Langon, Centre",5 bis Cours Lattre De Tassigny - 33210 Langon (Gironde),44.55229,-0.24557,Langon,33210
+"Audioprothésiste Audika Langon, République",38 Cours Gambetta - 33210 Langon (Gironde),44.553875,-0.253145,Langon,33210
+Audioprothésiste Audika La Teste-de-Buch,2 Rue du Chemin des Dames - 33260 La Teste-de-Buch (Gironde),44.633006,-1.149226,La Teste-de-Buch,33260
+Audioprothésiste Audika La Teste-de-Buch Exupery,23 Avenue Saint-Exupery - 33260 La Teste-de-Buch (Gironde),44.62378,-1.140544,La Teste-de-Buch,33260
+Audioprothésiste Audika Libourne,29 avenue du Général de Gaulle - 33500 Libourne (Gironde),44.90691,-0.230596,Libourne,33500
+Audioprothésiste Audika Merignac,2 Rue Beaumarchais - 33700 Merignac (Gironde),44.841358,-0.649015,Mérignac,33700
+Audioprothésiste Audika Saint-André-de-Cubzac,14 Allée du champ de foire - 33240 Saint-André-de-Cubzac (Gironde),44.995996,-0.44431,Saint-André-de-Cubzac,33240
+Audioprothésiste Audika Altkirch,7 Rue de Givet - 68130 Altkirch (Haut-Rhin),47.62493,7.242235,Altkirch,68130
+Audioprothésiste Audika Brunstatt-Didenheim,289 Avenue d'Altkirch - 68350 Brunstatt-Didenheim (Haut-Rhin),47.721888,7.318364,Brunstatt-Didenheim,68350
+Audioprothésiste Audika Colmar,3 Avenue de la République - 68000 Colmar (Haut-Rhin),48.077925,7.353878,Colmar,68000
+Audioprothésiste Audika Mulhouse Centre,1 Avenue de Lattre de Tassigny - 68100 Mulhouse (Haut-Rhin),47.886334,7.229965,Soultz-Haut-Rhin,68360
+Audioprothésiste Audika Mulhouse Hasenrain,96 Avenue d'Altkirch - 68100 Mulhouse (Haut-Rhin),47.623863,7.238585,Altkirch,68130
+Audioprothésiste Audika Pfastatt,107 Rue de Richwiller - 68120 Pfastatt (Haut-Rhin),47.784968,7.306544,Richwiller,68120
+Audioprothésiste Audika Riedisheim,64 Rue de Mulhouse - 68400 Riedisheim (Haut-Rhin),47.747465,7.364626,Riedisheim,68400
+Audioprothésiste Audika Bastia,452 Avenue Sampiero Corso - Centre medical le polygone montesoro - 20600 Bastia (Haute-Corse),47.278481,-2.057674,Corsept,44560
+Audioprothésiste Audika Corte,20 Cours Paoli - 20250 Corte (Haute-Corse),42.306934,9.150642,Corte,20250
+Audioprothésiste Audika Ghisonaccia,Avenue du 9 septembre - 20240 Ghisonaccia (Haute-Corse),42.020408,9.408714,Ghisonaccia,20240
+Audioprothésiste Audika Monticello,Route de Bastia - Complexe Le Bell'esse - 20220 Monticello (Haute-Corse),42.639015,8.979455,Monticello,20220
+Audioprothésiste Audika San Nicolao,RN 198 - Immeuble Castelli - Moriani Plage - 20230 San Nicolao (Haute-Corse),42.369424,9.493712,San-Nicolao,20230
+Audioprothésiste Audika Blagnac,15 Rue Pasteur - 31700 Blagnac (Haute-Garonne),43.634585,1.39569,Blagnac,31700
+Audioprothésiste Audika L'Union,Avenue de Toulouse - Centre Commercial Saint-Caprais - 31240 L'Union (Haute-Garonne),43.653385,1.474568,L'Union,31240
+Audioprothésiste Audika Muret,2 bis Avenue Jacques Douzans - 31600 Muret (Haute-Garonne),43.461914,1.324735,Muret,31600
+Audioprothésiste Audika Plaisance-du-Touch,4 Rue Bernadet - 31830 Plaisance-du-Touch (Haute-Garonne),43.57129,1.312639,Plaisance-du-Touch,31830
+Audioprothésiste Audika Revel,32 Rue Vaure - 31250 Revel (Haute-Garonne),43.459466,2.003273,Revel,31250
+Audioprothésiste Audika Saint-Gaudens,21 Boulevard Charles de Gaulle - 31800 Saint-Gaudens (Haute-Garonne),43.109068,0.722656,Saint-Gaudens,31800
+Audioprothésiste Audika Toulouse,63 Boulevard de Strasbourg - 31000 Toulouse (Haute-Garonne),43.609765,1.444158,Toulouse,31000
+"Audioprothésiste Audika Toulouse, Carmes",35 Rue du Languedoc - 31000 Toulouse (Haute-Garonne),43.598557,1.445435,Toulouse,31000
+"Audioprothésiste Audika Toulouse, Minimes",55 B Avenue des Minimes - 31200 Toulouse (Haute-Garonne),44.837548,0.331502,Gardonne,24680
+Audioprothésiste Audika Villefranche-de-Lauragais,74 Rue de la République - 31290 Villefranche-de-Lauragais (Haute-Garonne),43.398631,1.717245,Villefranche-de-Lauragais,31290
+Audioprothésiste Audika Villeneuve-Tolosane,14 Rue Saint-Laurent - 31270 Villeneuve-Tolosane (Haute-Garonne),43.521705,1.340159,Villeneuve-Tolosane,31270
+Audioprothésiste Audika Brioude,18 Avenue Léon Blum - 43100 Brioude (Haute-Loire),45.289551,3.386734,Brioude,43100
+Audioprothésiste Audika Le Puy-en-Velay,43 Boulevard du Maréchal Joffre - 43000 Le Puy-en-Velay (Haute-Loire),45.049752,3.894732,Le Puy-en-Velay,43000
+Audioprothésiste Audika Monistrol-sur-loire,Zone d'activité du Pêcher - 43120 Monistrol-sur-loire (Haute-Loire),45.287089,4.16117,Monistrol-sur-Loire,43120
+Audioprothésiste Audika Yssingeaux,Route de Retournac - 43200 Yssingeaux (Haute-Loire),45.143999,4.116326,Yssingeaux,43200
+Audioprothésiste Audika Chaumont,9 Avenue des Etats-Unis - Galerie Agora - 52000 Chaumont (Haute-Marne),48.119013,5.141882,Chaumont,52000
+Audioprothésiste Audika Langres,5 Rue Diderot - 52200 Langres (Haute-Marne),47.861697,5.333892,Langres,52200
+Audioprothésiste Audika Saint-Dizier,26/28 Rue du Docteur Mougeot - 52100 Saint-Dizier (Haute-Marne),48.636522,4.948836,Saint-Dizier,52100
+Audioprothésiste Audika Luxeuil-les-Bains,23 Rue Jules Jeanneney - 70300 Luxeuil-les-Bains (Haute-Saône),47.814757,6.381048,Luxeuil-les-Bains,70300
+Audioprothésiste Audika Vesoul,8 Rue du Docteur Noël Courvoisier - 70000 Vesoul (Haute-Saône),47.633253,6.140002,Vesoul,70000
+Audioprothésiste Audika Annecy,15 Avenue de la Préfecture - 74000 Annecy (Haute-Savoie),45.902409,6.129447,Annecy,74000
+Audioprothésiste Audika Annemasse,9 Rue Fernand David - 74100 Annemasse (Haute-Savoie),46.191935,6.234304,Annemasse,74100
+Audioprothésiste Audika Bonneville,151 Avenue de la Gare - 74130 Bonneville (Haute-Savoie),46.077952,6.415044,Bonneville,74130
+Audioprothésiste Audika Cluses,11 Place des Allobroges - Immeuble le Donia - 74300 Cluses (Haute-Savoie),46.057761,6.580089,Cluses,74300
+Audioprothésiste Audika Evian-les-Bains,1 Avenue de la Monnaie - 74500 Evian-les-Bains (Haute-Savoie),46.400407,6.58733,Évian-les-Bains,74500
+Audioprothésiste Audika Saint-Jorioz,22-24 Route d'Annecy - 74410 Saint-Jorioz (Haute-Savoie),45.834168,6.163329,Saint-Jorioz,74410
+Audioprothésiste Audika Saint-Julien en Genevois,16 Grande Rue - 74160 Saint-Julien en Genevois (Haute-Savoie),46.14225,6.079976,Saint-Julien-en-Genevois,74160
+Audioprothésiste Audika Sallanches,74 Rue du Mont Blanc - 74700 Sallanches (Haute-Savoie),45.93422,6.631886,Sallanches,74700
+Audioprothésiste Audika Thonon-les-Bains,97 Avenue du Général de Gaulle - 74200 Thonon-les-Bains (Haute-Savoie),46.36379,6.462953,Thonon-les-Bains,74200
+Audioprothésiste Audika Thônes,7 Rue de la Saulne - 74230 Thônes (Haute-Savoie),45.882531,6.325278,Thônes,74230
+Audioprothésiste Audika Limoges,23 Boulevard Carnot - 87000 Limoges (Haute-Vienne),45.832403,1.260445,Limoges,87000
+Audioprothésiste Audika Saint-Junien,22 Boulevard Victor Hugo - 87200 Saint-Junien (Haute-Vienne),45.888256,0.900097,Saint-Junien,87200
+Audioprothésiste Audika Saint-Yrieix-la-Perche,56 Boulevard de l'Hôtel de Ville - 87500 Saint-Yrieix-la-Perche (Haute-Vienne),45.513472,1.20346,Saint-Yrieix-la-Perche,87500
+Audioprothésiste Audika Briancon,30 Avenue Centrale - 05100 Briançon (Hautes-Alpes),44.895602,6.63652,Briançon,05100
+Audioprothésiste Audika Embrun,ZAC d'Entraigues Baratier - 05200 Embrun (Hautes-Alpes),44.53322,6.502518,Baratier,05200
+Audioprothésiste Audika Gap,7 Avenue Jean Jaures - 05000 Gap (Hautes-Alpes),44.556012,6.076115,Gap,05000
+Audioprothésiste Audika Gap Gare,5 Cours Ladoucette - 05000 Gap (Hautes-Alpes),44.561716,6.083007,Gap,05000
+Audioprothésiste Audika Lourdes,1 Rue de Bagnères - 65100 Lourdes (Hautes-Pyrénées),43.095938,-0.045977,Lourdes,65100
+Audioprothésiste Audika Tarbes,22 Place du Marché Brauhauban - 65000 Tarbes (Hautes-Pyrénées),43.23153,0.074293,Tarbes,65000
+Audioprothésiste Audika Antony,37 Avenue Aristide Briand - 92160 Antony (Hauts-de-Seine),48.755678,2.305768,Antony,92160
+Audioprothésiste Audika Asnières Bois-Colombes,104 Rue des Bourguignons - 92600 Asnières (Hauts-de-Seine),48.915483,2.275865,Asnières-sur-Seine,92600
+Audioprothésiste Audika Boulogne-Billancourt,43/45 Avenue Victor Hugo - 92100 Boulogne-Billancourt (Hauts-de-Seine),48.836738,2.245031,Boulogne-Billancourt,92100
+Audioprothésiste Audika Chatenay-Malabry,4 Rue Henri Irenee Marrou - 92290 Chatenay-Malabry (Hauts-de-Seine),48.766747,2.279756,Châtenay-Malabry,92290
+Audioprothésiste Audika Clamart,44-44 bis Avenue Jean Jaurès - 92140 Clamart (Hauts-de-Seine),48.802832,2.26518,Clamart,92140
+Audioprothésiste Audika Courbevoie,71 Rue de Bezons - 92400 Courbevoie (Hauts-de-Seine),48.896974,2.248032,Courbevoie,92400
+Audioprothésiste Audika Courbevoie Bécon-les-Bruyères,5 Avenue de la Liberté - 92400 Courbevoie (Hauts-de-Seine),48.90412,2.268234,Courbevoie,92400
+Audioprothésiste Audika Garches,22 Avenue Joffre - 92380 Garches (Hauts-de-Seine),48.839278,2.18627,Garches,92380
+Audioprothésiste Audika Issy-les-Moulineaux,10 Avenue Victor Cresson - 92130 Issy-les-Moulineaux (Hauts-de-Seine),48.82363,2.27148,Issy-les-Moulineaux,92130
+Audioprothésiste Audika Meudon,36 Rue de la République - 92190 Meudon (Hauts-de-Seine),48.807238,2.235599,Meudon,92190
+Audioprothésiste Audika Nanterre,6 Place du Maréchal Foch - 92000 Nanterre (Hauts-de-Seine),48.888763,2.194165,Nanterre,92000
+Audioprothésiste Audika Neuilly-sur-Seine,21 Rue du Château - 92200 Neuilly-sur-Seine (Hauts-de-Seine),48.886553,2.261838,Neuilly-sur-Seine,92200
+Audioprothésiste Audika Puteaux,21-23 Boulevard Richard Wallace - 92800 Puteaux (Hauts-de-Seine),48.879748,2.239927,Puteaux,92800
+Audioprothésiste Audika Rueil-Malmaison,1 Rue Jean Mermoz - 92500 Rueil-Malmaison (Hauts-de-Seine),48.879531,2.184608,Rueil-Malmaison,92500
+Audioprothésiste Audika Saint-Cloud,9 Rue de Montretout - 92210 Saint-Cloud (Hauts-de-Seine),48.845723,2.213283,Saint-Cloud,92210
+Audioprothésiste Audika Suresnes,78 Boulevard Maréchal de Lattre de Tassigny - 92150 Suresnes (Hauts-de-Seine),48.864904,2.214259,Suresnes,92150
+Audioprothésiste Audika Agde,2 Avenue du Grand Large - 34300 Agde (Hérault),43.30426,3.48762,Agde,34300
+"Audioprothésiste Audika Beziers, Jean-Moulin",62 Avenue Jean Moulin - 34500 Beziers (Hérault),43.35259,3.232648,Béziers,34500
+Audioprothésiste Audika Bédarieux,92 Avenue Saint-Alexandre - 34600 Bédarieux (Hérault),43.615235,3.159197,Bédarieux,34600
+"Audioprothésiste Audika Béziers, Clémenceau",55 Avenue Georges Clémenceau - 34500 Béziers (Hérault),43.347131,3.218262,Béziers,34500
+Audioprothésiste Audika Castelnau,345 Route de Nîmes - 34170 Castelnau (Hérault),43.635745,3.92513,Castelnau-le-Lez,34170
+Audioprothésiste Audika Clermont-l'Herault,6 Chemin de la Madeleine - ZAC de la Madeleine - 34800 Clermont-l'Herault (Hérault),43.623709,3.437148,Clermont-l'Hérault,34800
+Audioprothésiste Audika Ganges,20 Avenue Biron - 34190 Ganges (Hérault),43.934452,3.706401,Ganges,34190
+Audioprothésiste Audika Lattes,75 Avenue de Boirargues - 34970 Lattes (Hérault),43.579663,3.917085,Lattes,34970
+Audioprothésiste Audika Lunel,429 Avenue du Vidourle - Route N113 - 34400 Lunel (Hérault),43.682581,4.149032,Lunel,34400
+Audioprothésiste Audika Meze,RD 613 - Ancienne Route de Montpellier - 34140 Meze (Hérault),43.42929,3.608187,Mèze,34140
+Audioprothésiste Audika Montpellier Aiguelongue,568 Rue de la Roqueturière - 34090 Montpellier (Hérault),43.627702,3.430823,Clermont-l'Hérault,34800
+Audioprothésiste Audika Montpellier Arceaux,5 Rue de Doria - 34000 Montpellier (Hérault),43.612505,3.86705,Montpellier,34000
+Audioprothésiste Audika Montpellier Lemasson,49 Rue Guillaume Janvier - 34070 Montpellier (Hérault),43.627702,3.430823,Clermont-l'Hérault,34800
+Audioprothésiste Audika Saint-Gely-du-Fesc,77 Rue de la Tour - Zone Les Verries (Face Intermarché) - 34980 Saint-Gely-du-Fesc (Hérault),43.675475,3.817107,Saint-Gély-du-Fesc,34980
+Audioprothésiste Audika Sète,10 bis quai Rhin et Danube - 34200 Sète (Hérault),43.40611,3.698884,Sète,34200
+Audioprothésiste Audika Sérignan,6 bis Rue Paul Cézanne - 34410 Sérignan (Hérault),43.271948,3.282556,Sérignan,34410
+Audioprothésiste Audika Bruz,8 Place du Vert Buisson - 35170 Bruz (Ille-et-Vilaine),48.028946,-1.759284,Bruz,35170
+Audioprothésiste Audika Cesson-Sevigne,8 Place de l'Eglise - 35510 Cesson-Sevigne (Ille-et-Vilaine),48.117035,-1.604595,Cesson-Sévigné,35510
+Audioprothésiste Audika Cesson-Sevigne La Monniais,48 Rue de Bray - 35510 Cesson-Sevigne (Ille-et-Vilaine),48.108112,-1.611338,Cesson-Sévigné,35510
+Audioprothésiste Audika Dinard,12 Boulevard Féart - 35800 Dinard (Ille-et-Vilaine),48.628624,-2.055672,Dinard,35800
+Audioprothésiste Audika Fougères,8 Boulevard Jean Jaures - 35300 Fougères (Ille-et-Vilaine),48.348796,-1.196232,Fougères,35300
+Audioprothésiste Audika Redon,2 quai Surcouf - 35600 Redon (Ille-et-Vilaine),47.648184,-2.088234,Redon,35600
+Audioprothésiste Audika Rennes,10 Place du Parlement de Bretagne - 35000 Rennes (Ille-et-Vilaine),48.112097,-1.678351,Rennes,35000
+Audioprothésiste Audika Saint-Malo,20 Avenue Jean Jaurès - 35400 Saint-Malo (Ille-et-Vilaine),48.648477,-2.005236,Saint-Malo,35400
+Audioprothésiste Audika Vitre,4 Boulevard des Rochers - 35500 Vitré (Ille-et-Vilaine),48.122504,-1.206037,Vitré,35500
+Audioprothésiste Audika Argenton-sur-Creuse,17 Rue Grande - 36200 Argenton-sur-Creuse (Indre),46.587617,1.51858,Argenton-sur-Creuse,36200
+Audioprothésiste Audika Le Blanc,21 Rue de la République - 36300 Le Blanc (Indre),46.63244,1.065922,Le Blanc,36300
+Audioprothésiste Audika Tours,27 bis Rue Victor Hugo - 37000 Tours (Indre-et-Loir),47.389042,0.687343,Tours,37000
+Audioprothésiste Audika Bourgoin-Jallieu,72 Avenue de la République - 38300 Bourgoin-Jallieu (Isère),45.585627,5.273505,Bourgoin-Jallieu,38300
+Audioprothésiste Audika Grenoble,14 Boulevard Edouard Rey - 38000 Grenoble (Isère),45.191098,5.722984,Grenoble,38000
+Audioprothésiste Audika Saint-Martin-d'Hères,7 Avenue Gabriel Peri - 38400 Saint-Martin-d'Hères (Isère),45.188,5.749323,Saint-Martin-d'Hères,38400
+Audioprothésiste Audika Vienne,45 Cours Romestang - 38200 Vienne (Isère),45.522703,4.874332,Vienne,38200
+Audioprothésiste Audika Vizille,328 Avenue du Général de Gaulle - 38220 Vizille (Isère),45.078933,5.773414,Vizille,38220
+Audioprothésiste Audika Voiron,11 Rue Genevoise - 38500 Voiron (Isère),45.366852,5.593662,Voiron,38500
+Audioprothésiste Audika Champagnole,14 Avenue de la République - 39300 Champagnole (Jura),46.745657,5.907717,Champagnole,39300
+Audioprothésiste Audika Dole,2 Rue de Besancon - 39100 Dole (Jura),47.094259,5.496587,Dole,39100
+Audioprothésiste Audika Lons-le-Saunier,3 Rue Pasteur - 39000 Lons-le-Saunier (Jura),46.67352,5.555483,Lons-le-Saunier,39000
+Audioprothésiste Audika Saint-Claude,4 Boulevard République - 39200 Saint-Claude (Jura),46.390873,5.863438,Saint-Claude,39200
+Audioprothésiste Audika Aire-sur-l'Adour,22 Rue du 13 Juin - 40800 Aire-sur-l'Adour (Landes),43.707154,-0.261036,Aire-sur-l'Adour,40800
+Audioprothésiste Audika Biscarosse,360 Avenue du 14 Juillet - 40600 Biscarosse (Landes),44.397593,-1.16608,Biscarrosse,40600
+Audioprothésiste Audika Dax,24 Rue Louis Barthou - 40100 Dax (Landes),43.708244,-1.050183,Dax,40100
+Audioprothésiste Audika Mimizan,11 Avenue de Bordeaux - 40200 Mimizan (Landes),44.202972,-1.22803,Mimizan,40200
+Audioprothésiste Audika Mont-de-Marsan,19 Boulevard de Mont Alma - 40280 Saint-Pierre-du-Mont (Landes),43.868651,-0.48954,Saint-Pierre-du-Mont,40280
+Audioprothésiste Audika Saint-Vincent-de-Tyrosse,92 Avenue Nationale 10 - 40230 Saint-Vincent-de-Tyrosse (Landes),43.659979,-1.307161,Saint-Vincent-de-Tyrosse,40230
+Audioprothésiste Audika Soustons,29 Rue Daste - 40140 Soustons (Landes),43.751631,-1.328938,Soustons,40140
+Audioprothésiste Audika Romorantin,17 Rue des Trois Rois - 41200 Romorantin (Loir-et-Cher),47.356267,1.742745,Romorantin-Lanthenay,41200
+Audioprothésiste Audika Andrézieux-Bouthéon,Rond Point des Goutterons - 600 Avenue Hélène Boucher - 42160 Andrézieux-Bouthéon (Loire),45.53582,4.28695,Andrézieux-Bouthéon,42160
+Audioprothésiste Audika Feurs,4 Place Carnot - 42110 Feurs (Loire),45.74356,4.22276,Feurs,42110
+Audioprothésiste Audika Roanne,14 Place de l'hôtel de ville - 42300 Roanne (Loire),46.034821,4.072278,Roanne,42300
+Audioprothésiste Audika Saint-Etienne,6 Rue Louis Braille - 42000 Saint-Etienne (Loire),45.438922,4.388772,Saint-Étienne,42000
+Audioprothésiste Audika Ancenis,40 Rue Rayer - 44150 Ancenis (Loire Atlantique),47.365674,-1.177673,Ancenis,44150
+Audioprothésiste Audika La Baule Escoubiac,178 Avenue de Lattre de Tassigny - 44500 La Baule (Loire Atlantique),47.285669,-2.396493,La Baule-Escoublac,44500
+Audioprothésiste Audika Nantes,10 Allée du Port Maillard - 44000 Nantes (Loire Atlantique),47.2149,-1.55178,Nantes,44000
+Audioprothésiste Audika Orvault,11 Route de Rennes - 44700 Orvault (Loire Atlantique),47.248144,-1.577619,Orvault,44700
+Audioprothésiste Audika Rezé,35 Rue Jean Jaurès - 44400 Rezé (Loire Atlantique),47.188791,-1.547174,Rezé,44400
+Audioprothésiste Audika Saint-Nazaire,39 Avenue Albert de Mun - 44600 Saint-Nazaire (Loire Atlantique),47.2782,-2.209389,Saint-Nazaire,44600
+Audioprothésiste Audika Beaugency,33 Place Martroi - 45190 Beaugency (Loiret),47.777206,1.62975,Beaugency,45190
+Audioprothésiste Audika Gien,"28 bis, Avenue du Maréchal Leclerc - 45500 Gien (Loiret)",47.685176,2.633101,Gien,45500
+Audioprothésiste Audika Montargis,35 Rue Jean Jaurès - 45200 Montargis (Loiret),47.993099,2.732398,Montargis,45200
+Audioprothésiste Audika Orléans,5 Rue d'Illiers - 45000 Orléans (Loiret),47.902367,1.901905,Orléans,45000
+Audioprothésiste Audika Cahors,41 Boulevard Gambetta - 46000 Cahors (Lot),44.449297,1.440136,Cahors,46000
+Audioprothésiste Audika Figeac,29 Rue Gambetta - 46100 Figeac (Lot),44.608328,2.033855,Figeac,46100
+Audioprothésiste Audika Agen,39 Boulevard de la République - 47000 Agen (Lot-et-Garonne),44.204667,0.615598,Agen,47000
+Audioprothésiste Audika Boé,Avenue du Docteur et Mme Delmas - 47550 Boé (Lot-et-Garonne),44.185802,0.630418,Boé,47550
+Audioprothésiste Audika Marmande,5 Avenue des Martyrs de la Résistance - 47200 Marmande (Lot-et-Garonne),44.508505,0.160064,Marmande,47200
+Audioprothésiste Audika Nérac,29 Allée d'Albret - 47600 Nérac (Lot-et-Garonne),44.133012,0.337944,Nérac,47600
+Audioprothésiste Audika Tonneins,13 Rue Maréchal Joffre - 47400 Tonneins (Lot-et-Garonne),44.389897,0.308284,Tonneins,47400
+Audioprothésiste Audika Villeneuve-sur-Lot,43 Avenue Jacques Bordeneuve - 47300 Villeneuve-sur-Lot (Lot-et-Garonne),44.404217,0.693099,Villeneuve-sur-Lot,47300
+Audioprothésiste Audika Saint-Chely-d'Apcher,134 Rue Théophile Roussel - 48200 Saint-Chely-d'Apcher (Lozère),44.803688,3.275665,Saint-Chély-d'Apcher,48200
+Audioprothésiste Audika Angers,8 Avenue d'Alsace - 49000 Angers (Maine-et-Loire),47.470381,-0.550678,Angers,49100
+Audioprothésiste Audika Cholet,11 Rue des Bons Enfants - 49300 Cholet (Maine-et-Loire),47.06274,-0.877755,Cholet,49300
+Audioprothésiste Audika Cholet Libération,26 Avenue de la Marne - 49300 Cholet (Maine-et-Loire),47.051023,-0.887003,Cholet,49300
+Audioprothésiste Audika Saumur,23 Place Bilange - 49400 Saumur (Maine-et-Loire),47.260744,-0.077801,Saumur,49400
+Audioprothésiste Audika Coutances,21 Avenue Gambetta - 50200 Coutances (Manche),49.052007,-1.442498,Coutances,50200
+Audioprothésiste Audika Granville,114 Rue Couraye - 50400 Granville (Manche),48.83748,-1.591582,Granville,50400
+Audioprothésiste Audika Saint-lo,25 Avenue du Maréchal Leclerc - 50000 Saint-lo (Manche),49.115166,-1.088191,Saint-Lô,50000
+Audioprothésiste Audika Chalons-en-Champagne,42 Rue de la Marne - 51000 Chalons-en-Champagne (Marne),48.956147,4.359746,Châlons-en-Champagne,51000
+Audioprothésiste Audika Epernay,4 Avenue Ernest Vallé - 51200 Epernay (Marne),49.046543,3.954772,Épernay,51200
+Audioprothésiste Audika Fismes,2 Rue Rene Letilly - 51170 Fismes (Marne),49.306855,3.679838,Fismes,51170
+Audioprothésiste Audika Reims,27 Avenue Colbert - 51100 Reims (Marne),49.256957,4.032671,Reims,51100
+Audioprothésiste Audika Reims Lundy,72 Boulevard de Lundy - 51100 Reims (Marne),49.26138,4.032665,Reims,51100
+Audioprothésiste Audika Reims Paris,11 Avenue de Paris - 51100 Reims (Marne),49.248769,4.014358,Reims,51100
+Audioprothésiste Audika Vitry-le-François,43 Rue Aristide Briand - 51300 Vitry-le-François(Marne),48.724993,4.584507,Vitry-le-François,51300
+Audioprothésiste Audika Laval,57 Rue de la Paix - 53000 Laval (Mayenne),48.071154,-0.766503,Laval,53000
+Audioprothésiste Audika Briey,12 bis Avenue Albert 1er - 54150 Briey (Meurthe-et-Moselle),49.249973,5.943504,Val de Briey,54150
+Audioprothésiste Audika Frouard,25 Rue de Metz - 54390 Frouard (Meurthe-et-Moselle),48.760569,6.132834,Frouard,54390
+Audioprothésiste Audika Jarny,10 Avenue de la République - 54800 Jarny (Meurthe-et-Moselle),49.158249,5.879584,Jarny,54800
+Audioprothésiste Audika Jarville-la-Malgrange,34 Rue de la République - 54140 Jarville-la-Malgrange (Meurthe-et-Moselle),48.67249,6.203041,Jarville-la-Malgrange,54140
+"Audioprothésiste Audika Joeuf, Espace Marie Curie",38 Rue de Franchepré - Espace Marie Curie - 54240 Joeuf (Meurthe-et-Moselle),49.22826,6.017982,Jœuf,54240
+Audioprothésiste Audika Luneville,15 Rue Carnot - 54300 Luneville (Meurthe-et-Moselle),48.589186,6.496528,Lunéville,54300
+Audioprothésiste Audika Maxéville,132 Rue André Bisiaux - 54320 Maxéville (Meurthe-et-Moselle),48.705168,6.143588,Maxéville,54320
+Audioprothésiste Audika Nancy,87 Rue Raymond Poincaré - 54000 Nancy (Meurthe-et-Moselle),48.688293,6.166305,Nancy,54000
+Audioprothésiste Audika Nancy place des Vosges,21 Place des Vosges - 54000 Nancy (Meurthe-et-Moselle),48.684829,6.187756,Nancy,54000
+Audioprothésiste Audika Neuves-Maisons,7 Rue du Capitaine Caillon - 54230 Neuves-Maisons (Meurthe-et-Moselle),48.615522,6.104642,Neuves-Maisons,54230
+"Audioprothésiste Audika Pont À Mousson, Place Duroc",38 Place Duroc - 54700 Pont-à-Mousson (Meurthe-et-Moselle),48.902043,6.055094,Pont-à-Mousson,54700
+Audioprothésiste Audika Pont-à-Mousson,28 Rue Victor Hugo - 54700 Pont-à-Mousson (Meurthe-et-Moselle),48.902243,6.052741,Pont-à-Mousson,54700
+Audioprothésiste Audika Saint-Max,39 Avenue Carnot - 54130 Saint-Max (Meurthe-et-Moselle),48.700794,6.208357,Saint-Max,54130
+Audioprothésiste Audika Toul,415 Avenue du Colonel Péchot - 54200 Toul (Meurthe-et-Moselle),48.679136,5.887765,Toul,54200
+"Audioprothésiste Audika Toul, Gambetta",5 Rue Gambetta - 54200 Toul (Meurthe-et-Moselle),48.67385,5.889092,Toul,54200
+Audioprothésiste Audika Vandoeuvre-lès-Nancy,9 Square de Liège - 54500 Vandoeuvre-lès-Nancy (Meurthe-et-Moselle),48.667678,6.169393,Vandœuvre-lès-Nancy,54500
+Audioprothésiste Audika Bar-le-Duc,110 Boulevard La Rochelle - 55000 Bar-le-Duc (Meuse),48.77112,5.164695,Bar-le-Duc,55000
+Audioprothésiste Audika Verdun,8 Avenue de Douaumont - 55100 Verdun (Meuse),49.219985,5.431433,Douaumont,55100
+Audioprothésiste Audika Auray,52 Avenue du Maréchal Foch - 56400 Auray (Morbihan),47.669068,-2.988196,Auray,56400
+Audioprothésiste Audika Hennebont,23 Rue Marechal Joffre - 56700 Hennebont (Morbihan),47.805985,-3.27685,Hennebont,56700
+Audioprothésiste Audika Lorient,3 Rue de Turenne - angle 31 Rue Maréchal Foch - 56100 Lorient (Morbihan),47.749932,-3.360908,Lorient,56100
+Audioprothésiste Audika Ploermel,7 Place de Lamennais - 56800 Ploermel (Morbihan),47.932176,-2.399853,Ploërmel,56800
+Audioprothésiste Audika Questembert,4 bis Rue Joseph Le Brix - 56230 Questembert (Morbihan),47.660599,-2.456896,Questembert,56230
+Audioprothésiste Audika Vannes,4 Place Lyautey - 56000 Vannes (Morbihan),47.660933,-2.755745,Vannes,56000
+Audioprothésiste Audika Bitche,46 Rue du Maréchal Foch - 57230 Bitche (Moselle),49.050207,7.426296,Bitche,57230
+Audioprothésiste Audika Chateau-Salins,28 Rue du Maréchal Joffre - 57170 Château-Salins (Moselle),48.82044,6.50756,Château-Salins,57170
+Audioprothésiste Audika Clouange,4 Rue Clémenceau - 57185 Clouange (Moselle),49.257396,6.09699,Clouange,57185
+Audioprothésiste Audika Creutzwald,28 Rue de la Houve - 57150 Creutzwald (Moselle),49.207345,6.695389,Creutzwald,57150
+Audioprothésiste Audika Freyming-Merlebach,15 bis Rue Eugène Kloster - 57800 Freyming-Merlebach (Moselle),49.148242,6.81714,Freyming-Merlebach,57800
+Audioprothésiste Audika Hagondange,3 Rue de la Gare - 57300 Hagondange (Moselle),49.250306,6.16938,Hagondange,57300
+Audioprothésiste Audika Hayange,1 Place de l'hôtel de ville - 57700 Hayange (Moselle),49.330141,6.064357,Hayange,57700
+Audioprothésiste Audika Metz Centre,11 Rue Haute Seille - 57000 Metz (Moselle),49.117487,6.179572,Metz,57000
+Audioprothésiste Audika Metz Nouvelle Ville,21 Rue Charles Petre - 57000 Metz (Moselle),49.104784,6.166197,Metz,57000
+Audioprothésiste Audika Metz Sebastopol,17 Rue de Sarre - 57070 Metz (Moselle),49.138227,6.204472,Saint-Julien-lès-Metz,57070
+Audioprothésiste Audika Metz en Bonne Ruelle,7 en Bonne Ruelle - 57000 Metz (Moselle),49.11633,6.173946,Metz,57000
+Audioprothésiste Audika Saint-Julien-lès-Metz,17 Centre d'Affaire la Tannerie Bâtiment E1 - 57070 Saint-Julien-lès-Metz (Moselle),49.12649,6.196379,Saint-Julien-lès-Metz,57070
+Audioprothésiste Audika Sarrebourg,14 Place de la gare - 57400 Sarrebourg (Moselle),48.737927,7.053399,Sarrebourg,57400
+Audioprothésiste Audika Thionville,12 Rue du Manège - 57100 Thionville (Moselle),49.358961,6.165761,Thionville,57100
+Audioprothésiste Audika Yutz,99 Avenue des Nations - 57970 Yutz (Moselle),49.360255,6.193597,Yutz,57970
+Audioprothésiste Audika Clamecy,1 Rue du Pont Chatelain - 58500 Clamecy (Nièvre),47.459985,3.520471,Clamecy,58500
+Audioprothésiste Audika Nevers,7 Rue Etienne Litaud - Carré Colbert - 58000 Nevers (Nièvre),46.994488,3.160075,Nevers,58000
+Audioprothésiste Audika Armentières,65 Avenue de Lille - 59280 Armentières (Nord),50.68372,2.879712,Armentières,59280
+Audioprothésiste Audika Aulnoye Aymeries,145 Place de l'Hôtel de Ville - 59620 Aulnoye Aymeries (Nord),50.19997,3.833063,Aulnoye-Aymeries,59620
+Audioprothésiste Audika Cambrai,8 Rue du Maréchal de Lattre de Tassigny - 59400 Cambrai (Nord),50.174726,3.235408,Cambrai,59400
+Audioprothésiste Audika Denain,123 Rue de Villars - 59220 Denain (Nord),50.327097,3.393628,Denain,59220
+Audioprothésiste Audika Douai,135 Place d'Armes - 59500 Douai (Nord),50.367661,3.083509,Douai,59500
+Audioprothésiste Audika Fourmies,10-12 Rue Saint-Louis - 59610 Fourmies (Nord),50.015829,4.043425,Fourmies,59610
+Audioprothésiste Audika Hazebrouck,2 Rue des Augustins - Résidence les Augustins - 59190 Hazebrouck (Nord),50.721566,2.533268,Hazebrouck,59190
+Audioprothésiste Audika La Madeleine,142 Rue du Général de Gaulle - 59110 La Madeleine (Nord),50.653248,3.073219,La Madeleine,59110
+Audioprothésiste Audika Lambersart,322-324 Avenue de Dunkerque - 59130 Lambersart (Nord),50.638963,3.021457,Lambersart,59130
+Audioprothésiste Audika Le Cateau-Cambrésis,11 Place Sadi Carnot - 59360 Le Cateau-Cambrésis (Nord),50.10478,3.543631,Le Cateau-Cambrésis,59360
+Audioprothésiste Audika Lille,154 Rue Pierre Mauroy - 59000 Lille (Nord),50.633183,3.067832,Lille,59800
+Audioprothésiste Audika Loos,143 Rue du Maréchal Foch - 59120 Loos (Nord),50.614811,3.014699,Loos,59120
+Audioprothésiste Audika Roubaix,16 bis Boulevard du Général De Gaulle - 59100 Roubaix (Nord),50.687007,3.174071,Roubaix,59100
+Audioprothésiste Audika Seclin,30 Avenue Jean Jaurès - 59113 Seclin (Nord),50.549332,3.0329,Seclin,59113
+Audioprothésiste Audika Tourcoing,3 Rue du Général Leclerc - 59200 Tourcoing (Nord),50.72283,3.159718,Tourcoing,59200
+Audioprothésiste Audika Valenciennes,17 Place du Hainaut - 59300 Valenciennes (Nord),50.359967,3.522485,Valenciennes,59300
+Audioprothésiste Audika Villeneuve d'Ascq,137 bis Rue du 8 Mai 1945 - 59650 Villeneuve d'Ascq (Nord),50.640909,3.155398,Villeneuve-d'Ascq,59650
+Audioprothésiste Audika Beauvais,59 Avenue Beauregard - 60000 Beauvais (Oise),49.430016,2.080978,Beauvais,60000
+Audioprothésiste Audika Clermont,10 Rue Gérard de Nerval - 60600 Clermont (Oise),49.382397,2.401069,Clermont,60600
+Audioprothésiste Audika Compiegne,35 Rue Saint-Corneille - 60200 Compiegne (Oise),49.416732,2.823179,Compiègne,60200
+Audioprothésiste Audika Saint-Just-En-Chaussée,1 bis Rue de Beauvais - Atol - Optique Fourmeaux - 60130 Saint-Just-en-Chaussée (Oise),49.506486,2.4332,Saint-Just-en-Chaussée,60130
+Audioprothésiste Audika Senlis,BÂT A - 6 Avenue DU POTEAU - 60300 Chamant (Oise),49.21897,2.594086,Chamant,60300
+Audioprothésiste Audika Alençon,10-12 Place de la Halle au Blé - 61000 Alençon (Orne),48.430721,0.085241,Alençon,61000
+Audioprothésiste Audika Argentan,12-14 Rue Etienne Panthou - 61200 Argentan (Orne),48.741972,-0.024306,Argentan,61200
+Audioprothésiste Audika L'Aigle,2 Rue du Pont du Moulin - 61300 L'Aigle (Orne),48.765442,0.628144,L'Aigle,61300
+Audioprothésiste Audika La Ferte-Mace,9 bis Avenue Thiers - 61600 La Ferte-Mace (Orne),48.592953,-0.356766,La Ferté Macé,61600
+Audioprothésiste Audika Mortagne-au-Perche,20 Rue des Quinze Fusillés - 61400 Mortagne-au-Perche (Orne),48.522183,0.549109,Mortagne-au-Perche,61400
+Audioprothésiste Audika Paris Boucicaut,93 Rue de la Convention - 75015 Paris,48.841878,2.286308,Paris,75015
+Audioprothésiste Audika Paris Montmartre,24 Rue Damrémont - 75018 Paris,48.88861,2.33325,Paris,75018
+"Audioprothésiste Audika Paris, Auteuil",52 Rue Auteuil - 75016 Paris,48.848068,2.262679,Paris,75016
+"Audioprothésiste Audika Paris, Batignolles",30 Rue Jouffroy D'Abbans - 75017 Paris,48.886156,2.309811,Paris,75017
+"Audioprothésiste Audika Paris, Buttes Chaumont",127 Avenue Simon Bolivar - 75019 Paris,48.88086,2.373633,Paris,75019
+"Audioprothésiste Audika Paris, Cambronne",100 Rue Cambronne - 75015 Paris,48.841186,2.303568,Paris,75015
+"Audioprothésiste Audika Paris, Daumesnil",47 Boulevard de Reuilly - 75012 Paris,48.839581,2.394054,Paris,75012
+"Audioprothésiste Audika Paris, Gambetta",273 Rue des Pyrénées - 75020 Paris,48.867962,2.395916,Paris,75020
+"Audioprothésiste Audika Paris, Gobelins",19 Avenue des Gobelins - 75005 Paris,48.837411,2.351743,Paris,75005
+"Audioprothésiste Audika Paris, Jules Joffrin",32 Rue Hermel - 75018 Paris,48.892739,2.345278,Paris,75018
+"Audioprothésiste Audika Paris, Malesherbes",5 Rue Meissonier - 75017 Paris,48.883167,2.304356,Paris,75017
+"Audioprothésiste Audika Paris, Marais",29 Rue des Archives - 75004 Paris,48.859155,2.355789,Paris,75004
+"Audioprothésiste Audika Paris, Motte-Picquet",55-57 Avenue de la Motte Picquet - 75015 Paris,48.850043,2.299397,Paris,75015
+"Audioprothésiste Audika Paris, Mozart",12 Avenue Mozart - 75016 Paris,48.857345,2.273017,Paris,75016
+"Audioprothésiste Audika Paris, Nation",278-280 Boulevard Voltaire - 75011 Paris,48.849781,2.393454,Paris,75011
+"Audioprothésiste Audika Paris, Pereire",79 Avenue Niel - 75017 Paris,48.882784,2.296084,Paris,75017
+"Audioprothésiste Audika Paris, Picpus",85 Boulevard de Picpus - 75012 Paris,48.847402,2.398119,Paris,75012
+"Audioprothésiste Audika Paris, Plaisance",182 Rue d'Alésia - 75014 Paris,48.832532,2.312722,Paris,75014
+"Audioprothésiste Audika Paris, Port Royal",135 Boulevard Saint Michel - 75005 Paris,48.841954,2.338104,Paris,75005
+"Audioprothésiste Audika Paris, Porte de Versailles",39 Boulevard Victor - 75015 Paris,48.834014,2.285612,Paris,75015
+"Audioprothésiste Audika Paris, Porte de Vincennes",74 Boulevard Soult - 75012 Paris,48.84456,2.410715,Paris,75012
+"Audioprothésiste Audika Paris, République",5 Boulevard Saint-Martin - 75003 Paris,48.867933,2.361401,Paris,75003
+"Audioprothésiste Audika Paris, Saint-Placide",49 Rue Saint-Placide - 75006 Paris,48.847692,2.326358,Paris,75006
+"Audioprothésiste Audika Paris, Sèvres Babylone",81 Avenue de Sèvres - 75006 Paris,48.84955,2.32301,Paris,75006
+"Audioprothésiste Audika Paris, Ternes-Wagram",54 Avenue de Wagram - 75017 Paris,48.878936,2.299028,Paris,75017
+"Audioprothésiste Audika Paris, Tolbiac",238 Rue de Tolbiac - 75013 Paris,48.826421,2.342555,Paris,75013
+"Audioprothésiste Audika Paris, Vaugirard",158 Rue de Vaugirard - 75015 Paris,48.843362,2.313751,Paris,75015
+"Audioprothésiste Audika Paris, Étoile",24 Avenue de Friedland - 75008 Paris,48.874489,2.300184,Paris,75008
+Audioprothésiste Audika Arras,1 Rue Meaulens - 62000 Arras (Pas-de-Calais),50.293944,2.774244,Arras,62000
+Audioprothésiste Audika Bethune,35 Avenue Grosse Tête - 62400 Bethune (Pas-de-Calais),50.529949,2.638819,Béthune,62400
+Audioprothésiste Audika Boulogne-sur-Mer,9 Rue Docteur Douglas Aigre - 62200 Boulogne-sur-Mer (Pas-de-Calais),50.721807,1.607119,Boulogne-sur-Mer,62200
+Audioprothésiste Audika Bruay-la-Buissière,514 Avenue de la Libération - 62700 Bruay-la-Buissière (Pas-de-Calais),50.490209,2.564197,Bruay-la-Buissière,62700
+Audioprothésiste Audika Calais,17 bis Rue du Temple - 62100 Calais (Pas-de-Calais),50.948679,1.855421,Calais,62100
+Audioprothésiste Audika Etaples,6 Rue de Rosamel - 62630 Etaples (Pas-de-Calais),50.514319,1.638346,Étaples,62630
+Audioprothésiste Audika Hesdin,31 Place d'Armes - 62140 Hesdin (Pas-de-Calais),50.373147,2.037504,Hesdin,62140
+Audioprothésiste Audika Lens,56 Boulevard Basly - 62300 Lens (Pas-de-Calais),50.430147,2.826484,Lens,62300
+Audioprothésiste Audika Lievin,151 Rue Jean Baptiste Defernez - 62800 Lievin (Pas-de-Calais),50.421196,2.778604,Liévin,62800
+Audioprothésiste Audika Montreuil-sur-Mer,55 Place du Général de Gaulle - 62170 Montreuil-sur-Mer (Pas-de-Calais),50.462228,1.759952,Montreuil,62170
+Audioprothésiste Audika Rouvroy,133 Rue du Général De Gaulle - 62320 Rouvroy (Pas-de-Calais),50.404799,2.907669,Rouvroy,62320
+Audioprothésiste Audika Saint-Omer,48 Rue de Dunkerque - 62500 Saint-Omer (Pas-de-Calais),50.751302,2.254241,Saint-Omer,62500
+Audioprothésiste Audika Ambert,7 Place du Pontel - 63600 Ambert (Puy-de-Dôme),45.549994,3.743079,Ambert,63600
+Audioprothésiste Audika Billom,10 Place de La Halle - 63160 Billom (Puy-de-Dôme),45.723262,3.340016,Billom,63160
+Audioprothésiste Audika Chamalieres,40 Avenue Joseph Claussat - 63400 Chamalières (Puy-de-Dôme),45.777595,3.066648,Chamalières,63400
+Audioprothésiste Audika Clermont-Ferrand,4 Rue Blatin - 63000 Clermont-Ferrand (Puy-de-Dôme),45.777097,3.080916,Clermont-Ferrand,63000
+Audioprothésiste Audika Cournon,48 ter Avenue de la Libération - 63800 Cournon (Puy-de-Dôme),45.732218,3.1916,Cournon-d'Auvergne,63800
+"Audioprothésiste Audika Cournon, Zenith",19 Rue de Sarlieve le Triangle - 63800 Cournon (Puy-de-Dôme),45.740742,3.161114,Cournon-d'Auvergne,63800
+Audioprothésiste Audika Issoire,8-10 Rue du Postillon - 63500 Issoire (Puy-de-Dôme),45.543163,3.244452,Issoire,63500
+Audioprothésiste Audika Riom,26 Boulevard Etienne Clémentel - 63200 Riom (Puy-de-Dôme),45.892366,3.109472,Riom,63200
+Audioprothésiste Audika Thiers,Edifice Moutier-Place de l'europe - 63300 Thiers (Puy-de-Dôme),45.850896,3.539127,Thiers,63300
+Audioprothésiste Audika Bayonne,Place des Basques - - 8 Rue de Gramont - 64100 Bayonne (Pyrénées-Atlantiques),43.493844,-1.478602,Bayonne,64100
+Audioprothésiste Audika Biarritz,40 Avenue Reine Victoria - 64200 Biarritz (Pyrénées-Atlantiques),43.485272,-1.550716,Biarritz,64200
+Audioprothésiste Audika Billere,20 Route de Bayonne - 64140 Billere (Pyrénées-Atlantiques),43.298558,-0.389644,Billère,64140
+Audioprothésiste Audika Cambo-les-Bains,4 Avenue Saint-Laurent - 64250 Cambo-les-Bains (Pyrénées-Atlantiques),43.362488,-1.404019,Cambo-les-Bains,64250
+Audioprothésiste Audika Mauléon-Licharre,10 Rue Pasteur - 64130 Mauléon-Licharre (Pyrénées-Atlantiques),43.21961,-0.889021,Mauléon-Licharre,64130
+Audioprothésiste Audika Oloron,61 Rue Carrerot - 64400 Oloron (Pyrénées-Atlantiques),43.192075,-0.613151,Oloron-Sainte-Marie,64400
+Audioprothésiste Audika Pau,3 Rue du Maréchal Joffre - 64000 Pau (Pyrénées-Atlantiques),43.295896,-0.369509,Pau,64000
+Audioprothésiste Audika Saint-Jean-de-Luz,3 Rue Augustin Chaho - 64500 Saint-Jean-de-Luz (Pyrénées-Atlantiques),43.386992,-1.660513,Saint-Jean-de-Luz,64500
+Audioprothésiste Audika Argelès-sur-Mer,7 Rue des Aigrettes - 66700 Argelès-sur-Mer (Pyrénées-Orientales),42.550317,3.012888,Argelès-sur-Mer,66700
+Audioprothésiste Audika Canet-en-Roussillon,144 promenade de la Côte Vermeille - 66140 Canet-en-Roussillon (Pyrénées-Orientales),42.683672,3.034257,Canet-en-Roussillon,66140
+Audioprothésiste Audika Ceret,18 Boulevard Jean Moulin - 66400 Ceret (Pyrénées-Orientales),42.490318,2.749155,Céret,66400
+Audioprothésiste Audika Perpignan Clémenceau,21 Boulevard Clemenceau - 66000 Perpignan (Pyrénées-Orientales),42.700447,2.890754,Perpignan,66000
+Audioprothésiste Audika Perpignan La Lunette,3 Avenue Carsalade du Pont - 66100 Perpignan (Pyrénées-Orientales),42.698678,2.895881,Perpignan,66000
+Audioprothésiste Audika Port-Vendres,8 Avenue Marius Démonté - 66660 Port-Vendres (Pyrénées-Orientales),42.514102,3.106674,Port-Vendres,66660
+Audioprothésiste Audika Prades,2 Rue de la Serre - ZAC Gibraltar - Vision Plus - Zone commerciale Super U - 66500 Prades (Pyrénées-Orientales),42.62382,2.425268,Prades,66500
+Audioprothésiste Audika Rivesaltes,1 bis Rue Beaumarchais - Angle Avenue Ledru Rollin - 66600 Rivesaltes (Pyrénées-Orientales),42.76835,2.870139,Rivesaltes,66600
+Audioprothésiste Audika Thuir,10 Allée des Droits de l'Homme - Résidence Duclos - 66300 Thuir (Pyrénées-Orientales),42.631954,2.758454,Thuir,66300
+Audioprothésiste Audika Anse,"2, Place de l'Égalité - Centre Commercial Carrefour Market - 69480 Anse (Rhône)",45.937699,4.719798,Anse,69480
+Audioprothésiste Audika Belleville-en-Beaujolais,103 bis Rue de la République - 69220 Belleville (Rhône),46.109471,4.745978,Belleville,69220
+Audioprothésiste Audika Brignais,60 Rue du Général de Gaulle - 69530 Brignais (Rhône),45.674527,4.755389,Brignais,69530
+Audioprothésiste Audika Bron,116/118 Avenue Franklin Roosevelt - 69500 Bron (Rhône),45.734377,4.905924,Bron,69500
+Audioprothésiste Audika Caluire,64 Rue Jean Moulin - 69300 Caluire (Rhône),45.79917,4.846783,Caluire-et-Cuire,69300
+Audioprothésiste Audika Decines,195 Avenue Jean Jaurès - 69150 Decines (Rhône),45.770863,4.956779,Décines-Charpieu,69150
+Audioprothésiste Audika Ecully,12 Place de la Libération - 69130 Ecully (Rhône),45.775338,4.777891,Écully,69130
+Audioprothésiste Audika Givors,30 Rue Roger Salengro - 69700 Givors (Rhône),45.583622,4.772053,Givors,69700
+Audioprothésiste Audika L'Arbresle,52 Rue Charles de Gaulle - 69210 L'Arbresle (Rhône),45.83673,4.616721,L'Arbresle,69210
+Audioprothésiste Audika Lozanne,252 bis Route de Lyon - 69380 Lozanne (Rhône),45.855139,4.683459,Lozanne,69380
+Audioprothésiste Audika Lyon,82 Avenue Jean Jaurés - 69007 Lyon (Rhône),45.747101,4.842808,Lyon,69007
+"Audioprothésiste Audika Lyon, Bellecour",23 Place Bellecour - 69002 Lyon (Rhône),45.756519,4.832583,Lyon,69002
+"Audioprothésiste Audika Lyon, Monplaisir",2 Place Ambroise Courtois - 69008 Lyon (Rhône),45.744947,4.871857,Lyon,69008
+"Audioprothésiste Audika Lyon, Vendôme",112 Rue Vendôme - 69006 Lyon (Rhône),45.766975,4.845273,Lyon,69006
+Audioprothésiste Audika Oullins,132 Grande Rue - 69600 Oullins (Rhône),45.714285,4.806516,Oullins,69600
+Audioprothésiste Audika Tarare,28 Rue Pêcherie - 69170 Tarare (Rhône),45.896309,4.432643,Tarare,69170
+Audioprothésiste Audika Tassin,83 Avenue de la République - 69160 Tassin (Rhône),45.763613,4.77559,Tassin-la-Demi-Lune,69160
+Audioprothésiste Audika Villefranche-sur-Saone,242 Rue de la Paix - 69400 Villefranche-sur-Saone (Rhône),45.989192,4.715697,Villefranche-sur-Saône,69400
+Audioprothésiste Audika Villeurbanne,66 Cours Emile Zola - 69100 Villeurbanne (Rhône),45.7709,4.869086,Villeurbanne,69100
+Audioprothésiste Audika Autun,16 Avenue Charles de Gaulle - 71400 Autun (Saône-et-Loire),46.952005,4.297114,Autun,71400
+Audioprothésiste Audika Chalon-sur-Saone,57 Rue d'Autun - 71100 Chalon-sur-Saone (Saône-et-Loire),46.783746,4.848796,Chalon-sur-Saône,71100
+Audioprothésiste Audika Le Creusot,66 Rue du Maréchal Foch - 71200 Le Creusot (Saône-et-Loire),46.804768,4.438936,Le Creusot,71200
+Audioprothésiste Audika Louhans,17 Rue de Bram - 71500 Louhans (Saône-et-Loire),46.626664,5.215913,Louhans,71500
+Audioprothésiste Audika Macon,11 Rue Gambetta - 71000 Mâcon (Saône-et-Loire),46.302097,4.830906,Mâcon,71000
+Audioprothésiste Audika Montceau-les-Mines,32 Rue Carnot - 71300 Montceau-les-Mines (Saône-et-Loire),46.673174,4.362414,Montceau-les-Mines,71300
+Audioprothésiste Audika La Flèche,3 Rue du Levant - 72200 La Flèche (Sarthe),47.704519,-0.052152,La Flèche,72200
+Audioprothésiste Audika Le Mans,22 Avenue du Général Leclerc - 72000 Le Mans (Sarthe),47.999948,0.196324,Le Mans,72000
+Audioprothésiste Audika Aix-les-Bains,5 Avenue Charles de Gaulle - 73100 Aix-les-Bains (Savoie),45.687767,5.913401,Aix-les-Bains,73100
+Audioprothésiste Audika Albertville,22 Avenue Jean jaurès - 73200 Albertville (Savoie),45.671619,6.385717,Albertville,73200
+Audioprothésiste Audika Chambery,90 Avenue Sommeiller - 73000 Chambery (Savoie),45.569194,5.92092,Chambéry,73000
+Audioprothésiste Audika Moutiers,106 Grande Rue - 73600 Moutiers (Savoie),45.483995,6.531853,Moûtiers,73600
+Audioprothésiste Audika Saint-Jean-de-Maurienne,32 Avenue de la République - 73300 Saint-Jean-de-Maurienne (Savoie),45.277264,6.3439,Saint-Jean-de-Maurienne,73300
+Audioprothésiste Audika Brie Comte Robert,10 Place du Marché - 77170 Brie-Comte-Robert (Seine-et-Marne),48.691211,2.609998,Brie-Comte-Robert,77170
+Audioprothésiste Audika Champs-sur-Marne,8 Rue de Paris - 77420 Champs-sur-Marne (Seine-et-Marne),48.852292,2.601825,Champs-sur-Marne,77420
+Audioprothésiste Audika Chelles,32 Avenue de la Résistance - 77500 Chelles (Seine-et-Marne),48.877012,2.585204,Chelles,77500
+"Audioprothésiste Audika Claye-Souilly, Corner Jaurès",25 Rue Jean Jaurès - 77410 Claye-Souilly (Seine-et-Marne),48.945133,2.685261,Claye-Souilly,77410
+"Audioprothésiste Audika Claye-Souilly, Jaurès",9 Rue Jean Jaurès - 77410 Claye-Souilly (Seine-et-Marne),48.94497,2.684087,Claye-Souilly,77410
+Audioprothésiste Audika Fontainebleau,23 Place de la République - 77300 Fontainebleau (Seine-et-Marne),48.406529,2.700944,Fontainebleau,77300
+Audioprothésiste Audika Lagny-sur-Marne,24 Rue Gambetta - 77400 Lagny-sur-Marne (Seine-et-Marne),48.878366,2.703082,Lagny-sur-Marne,77400
+Audioprothésiste Audika Meaux,75 bis Rue du Faubourg St Nicolas - 77100 Meaux (Seine-et-Marne),48.958424,2.88934,Meaux,77100
+Audioprothésiste Audika Melun,13 Place de la Porte de Paris - 77000 Melun (Seine-et-Marne),48.540254,2.658232,Melun,77000
+"Audioprothésiste Audika Melun, Avenue Thiers",46 Avenue Thiers - 77000 Melun (Seine-et-Marne),48.529363,2.654411,Melun,77000
+Audioprothésiste Audika Montereau,70 Rue Jean Jaurès - 77130 Montereau (Seine-et-Marne),48.383948,2.955632,Montereau-Fault-Yonne,77130
+Audioprothésiste Audika Saint-Fargeau-Ponthierry,20 Avenue de Fontainebleau - 77310 Saint Fargeau Ponthierry (Seine-et-Marne),48.528897,2.547632,Saint-Fargeau-Ponthierry,77310
+Audioprothésiste Audika Villeparisis,137 Avenue Eugène Varlin - 77270 Villeparisis (Seine-et-Marne),48.949486,2.600429,Villeparisis,77270
+Audioprothésiste Audika Dieppe,4-6 Rue Sygogne - 76200 Dieppe (Seine-Maritime),49.923796,1.072317,Dieppe,76370
+Audioprothésiste Audika Le Havre,39 Parvis Saint-Michel - 76600 Le Havre (Seine-Maritime),49.496695,0.109955,Le Havre,76600
+Audioprothésiste Audika Rouen,1a Rue Grand Pont - 76000 Rouen (Seine-Maritime),49.438357,1.091923,Rouen,76100
+Audioprothésiste Audika Yvetot,13 Avenue du Général Leclerc - 76190 Yvetot (Seine-Maritime),49.618596,0.751694,Yvetot,76190
+Audioprothésiste Audika Aulnay,9 Route de Bondy - 93600 Aulnay (Seine-Saint-Denis),48.920678,2.343564,Saint-Denis,93200
+Audioprothésiste Audika Drancy,83 Avenue Henri Barbusse - 93700 Drancy (Seine-Saint-Denis),48.917955,2.447215,Drancy,93700
+Audioprothésiste Audika Le Raincy,119 Avenue de la Résistance - 93340 Le Raincy (Seine-Saint-Denis),48.897587,2.51582,Le Raincy,93340
+Audioprothésiste Audika Rosny,9 Place Carnot - 93110 Rosny (Seine-Saint-Denis),48.938357,2.355044,Saint-Denis,93200
+Audioprothésiste Audika Saint-Denis,14 Avenue Gabriel Péri - 93200 Saint-Denis (Seine-Saint-Denis),48.931223,2.356322,Saint-Denis,93200
+Audioprothésiste Audika Abbeville,14 Avenue Jean de Ponthieu - 80100 Abbeville (Somme),50.106727,1.832886,Abbeville,80100
+Audioprothésiste Audika Amiens,23 Route de Paris - 80000 Amiens (Somme),49.888493,2.289692,Amiens,80000
+Audioprothésiste Audika Peronne,8 Rue Saint-Sauveur - 80200 Peronne (Somme),49.930068,2.936327,Péronne,80200
+Audioprothésiste Audika Albi,21 Avenue François Verdier - 81000 Albi (Tarn),43.91971,2.136214,Albi,81000
+Audioprothésiste Audika Carmaux,6 Avenue Jean Jaurès - 81400 Carmaux (Tarn),44.049701,2.157472,Carmaux,81400
+Audioprothésiste Audika Castres,38 Rue Mahuzies - Place de l'Albinque - 81100 Castres (Tarn),43.608766,2.239908,Castres,81100
+Audioprothésiste Audika Gaillac,1 Rue des Frères Delga - 81600 Gaillac (Tarn),43.900181,1.897848,Gaillac,81600
+Audioprothésiste Audika Mazamet,52 Rue Edouard Barbey - 81200 Mazamet (Tarn),43.493246,2.374462,Mazamet,81200
+Audioprothésiste Audika Caussade,15 Boulevard Léonce Granié - (Krys - Optique Sartron) - 82300 Caussade (Tarn-et-Garonne),44.161738,1.536229,Caussade,82300
+Audioprothésiste Audika Moissac,11 Place des Recollets - 82200 Moissac (Tarn-et-Garonne),44.103421,1.085092,Moissac,82200
+Audioprothésiste Audika Montauban,32 Avenue Gambetta - 82000 Montauban (Tarn-et-Garonne),44.016894,1.358537,Montauban,82000
+Audioprothésiste Audika Belfort,16 Avenue Jean Jaurès - 90000 Belfort (Territoire-de-Belfort),47.643319,6.856629,Belfort,90000
+Audioprothésiste Audika Enghien,6 Avenue de Ceinture - 95880 Enghien-les-Bains (Val-D'Oise),48.969332,2.304843,Enghien-les-Bains,95880
+Audioprothésiste Audika Pontoise,2 Place Notre Dame - 95300 Pontoise (Val-D'Oise),49.049493,2.09333,Pontoise,95300
+Audioprothésiste Audika Alfortville,163 Avenue Paul Vaillant Couturier - 94140 Alfortville (Val-de-Marne),48.806192,2.4186,Alfortville,94140
+Audioprothésiste Audika Charenton-le-pont,80 Rue de Paris - 94220 Charenton-le-pont (Val-de-Marne),48.823001,2.411651,Charenton-le-Pont,94220
+Audioprothésiste Audika Choisy-le-Roi,4 Avenue Gambetta - 94600 Choisy-le-Roi (Val-de-Marne),48.76425,2.404829,Choisy-le-Roi,94600
+Audioprothésiste Audika Creteil,44 Rue du Général Leclerc - 94000 Créteil (Val-de-Marne),48.792114,2.463585,Créteil,94000
+Audioprothésiste Audika Fontenay-sous-Bois,107 ter Rue Dalayrac - 94120 Fontenay-sous-Bois (Val-de-Marne),48.849171,2.458701,Fontenay-sous-Bois,94120
+Audioprothésiste Audika Gentilly,25 Avenue Jean Jaurès - 94250 Gentilly (Val-de-Marne),48.813642,2.350609,Gentilly,94250
+Audioprothésiste Audika Joinville-le-Pont,13 Rue de Paris - 94340 Joinville-le-Pont (Val-de-Marne),48.818678,2.46586,Joinville-le-Pont,94340
+Audioprothésiste Audika Le Kremlin Bicetre,11 Avenue Eugène Thomas - 94270 Le Kremlin Bicetre (Val-de-Marne),48.809527,2.361091,Le Kremlin-Bicêtre,94270
+Audioprothésiste Audika Maisons-Alfort,17 Avenue Georges Clemenceau - 94700 Maisons-Alfort (Val-de-Marne),48.80673,2.443278,Maisons-Alfort,94700
+Audioprothésiste Audika Nogent sur Marne,162 bis Grande Rue Charles de Gaulle - 94130 Nogent-sur-Marne (Val-de-Marne),48.838267,2.490333,Nogent-sur-Marne,94130
+Audioprothésiste Audika Saint-Maur-Des-Fossés,13 Avenue de la République - 94100 Saint-Maur-Des-Fossés (Val-de-Marne),48.802964,2.486144,Saint-Maur-des-Fossés,94100
+Audioprothésiste Audika Villiers-sur-Marne,86 bis Avenue du Général de Gaulle - 94350 Villiers-sur-Marne (Val-de-Marne),48.827493,2.545217,Villiers-sur-Marne,94350
+Audioprothésiste Audika Vincennes,15 Avenue de Paris - 94300 Vincennes (Val-de-Marne),48.845039,2.432607,Vincennes,94300
+"Audioprothésiste Audika Vincennes, Saint-Mandé",168 Avenue de Paris - 94300 Vincennes (Val-de-Marne),48.846339,2.420621,Vincennes,94300
+Audioprothésiste Audika Vitry-sur-seine,164 Avenue Rouget de Lisle - 94400 Vitry-sur-Seine (Val-de-Marne),48.78304,2.394138,Vitry-sur-Seine,94400
+Audioprothésiste Audika Brignoles,113 Avenue du Maréchal Foch - 83170 Brignoles (Var),43.408008,6.067526,Brignoles,83170
+Audioprothésiste Audika Carqueiranne,11 Avenue Jean Jaurès - 83320 Carqueiranne (Var),43.093699,6.075812,Carqueiranne,83320
+Audioprothésiste Audika Draguignan,60 Boulevard des Martyrs de la Résistance - 83300 Draguignan (Var),43.534361,6.465063,Draguignan,83300
+Audioprothésiste Audika Hyères,12 Rue du Soldat Bellon - 83400 Hyères (Var),43.118338,6.127474,Hyères,83400
+Audioprothésiste Audika La Valette,195 Avenue du Dr. Tremolieres - 83160 La Valette du Var (Var),43.136598,5.980919,La Valette-du-Var,83160
+Audioprothésiste Audika Le Lavandou,34 Rue de la Rigourette - 83980 Le Lavandou (Var),43.137281,6.365293,Le Lavandou,83980
+Audioprothésiste Audika Saint-Maximin,ZA La Laouve - Atol Les opticiens - 83470 Saint-Maximin (Var),43.449683,5.852376,Saint-Maximin-la-Sainte-Baume,83470
+Audioprothésiste Audika Saint-Raphael,72 Place du Maréchal Galliéni - 83700 Saint-Raphael (Var),43.424085,6.768651,Saint-Raphaël,83700
+Audioprothésiste Audika Saint-Tropez,2 Avenue du Général Leclerc - 83990 Saint-Tropez (Var),43.268978,6.634787,Saint-Tropez,83990
+Audioprothésiste Audika Sainte-Maxime,3 Boulevard Frédéric Mistral - 83120 Sainte-Maxime (Var),43.309011,6.639062,Sainte-Maxime,83120
+Audioprothésiste Audika Six-Fours-les-Plages,95 Rue République - 83140 Six Fours les Plages (Var),43.093377,5.838219,Six-Fours-les-Plages,83140
+Audioprothésiste Audika Toulon,24 Rue Gimelli - 83000 Toulon (Var),43.127084,5.929506,Toulon,83000
+Audioprothésiste Audika Vidauban,23 Avenue Wilson - 83550 Vidauban (Var),43.426329,6.430365,Vidauban,83550
+Audioprothésiste Audika Avignon Vedène,696 Avenue Vidier - 84270 Vedène (Vaucluse),43.972488,4.892471,Vedène,84270
+Audioprothésiste Audika Carpentras,404 Avenue Notre Dame de Santé - 84200 Carpentras (Vaucluse),44.059827,5.048834,Carpentras,84200
+Audioprothésiste Audika Cavaillon,21 Avenue Lamartine - 84300 Cavaillon (Vaucluse),43.83599,5.038009,Cavaillon,84300
+Audioprothésiste Audika Orange,53 Avenue Charles de gaulle - 84100 Orange (Vaucluse),44.136272,4.803541,Orange,84100
+Audioprothésiste Audika Pertuis,52 Cours de la République - 84120 Pertuis (Vaucluse),43.692942,5.501016,Pertuis,84120
+Audioprothésiste Audika Challans,19 Place Aristide Briand - Face aux Halles - 85300 Challans (Vendée),46.847637,-1.877939,Challans,85300
+Audioprothésiste Audika Fontenay-le-Comte,48 Rue de la République - 85200 Fontenay-le-Comte (Vendée),46.464751,-0.80211,Fontenay-le-Comte,85200
+Audioprothésiste Audika La Roche-sur-Yon,6 Rue Paul Baudry - 85000 La Roche-sur-Yon (Vendée),46.670024,-1.425181,La Roche-sur-Yon,85000
+Audioprothésiste Audika Les Herbiers,6 Rue des Bains-Douches - 85500 Les Herbiers (Vendée),46.869814,-1.011364,Les Herbiers,85500
+Audioprothésiste Audika Les Sables d'Olonne,8 Rue Gambetta - 85100 Les Sables d'Olonne (Vendée),46.498892,-1.77725,Les Sables-d'Olonne,85100
+Audioprothésiste Audika Montaigu,18 Avenue Villebois Mareuil - 85600 Montaigu (Vendée),46.978311,-1.314707,Montaigu,85600
+Audioprothésiste Audika Poitiers,12 Rue du Petit Bonneveau - 86000 Poitiers (Vienne),46.577963,0.339,Poitiers,86000
+Audioprothésiste Audika Epinal,24 quai de Dogneville - 88000 Epinal (Vosges),48.224093,6.456841,Dogneville,88000
+Audioprothésiste Audika Neufchateau,14 Rue de France - 88300 Neufchateau (Vosges),48.356197,5.692538,Neufchâteau,88300
+Audioprothésiste Audika Saint-Die,19 Rue d'Alsace - 88100 Saint-Die (Vosges),48.282734,6.950857,Saint-Dié-des-Vosges,88100
+Audioprothésiste Audika Vittel,9 Place du Général de Gaulle - 88800 Vittel (Vosges),48.200463,5.948744,Vittel,88800
+Audioprothésiste Audika Auxerre,15 Avenue Jean Jaurès - 89000 Auxerre (Yonne),47.79765,3.579427,Auxerre,89000
+Audioprothésiste Audika Avallon,1 Route de Paris - 89200 Avallon (Yonne),47.493157,3.906867,Avallon,89200
+Audioprothésiste Audika Sens,6 Rue André Gâteau - 89100 Sens (Yonne),48.197494,3.280103,Sens,89100
+Audioprothésiste Audika Conflans-Sainte-Honorine,204 Avenue du Maréchal Foch - 78700 Conflans-Sainte-Honorine (Yvelines),49.005598,2.115805,Conflans-Sainte-Honorine,78700
+Audioprothésiste Audika Houilles,11 Rue Gambetta - 78800 Houilles (Yvelines),48.922759,2.187402,Houilles,78800
+Audioprothésiste Audika Mantes-la-Jolie,5-7 Avenue Auguste Goust - 78200 Mantes-la-Jolie (Yvelines),48.991068,1.719651,Mantes-la-Jolie,78200
+Audioprothésiste Audika Plaisir,1080 Avenue du Général de Gaulle - 78370 Plaisir (Yvelines),48.823147,1.959713,Plaisir,78370
+Audioprothésiste Audika Poissy,2 Boulevard de la Paix - 78300 Poissy (Yvelines),48.930042,2.042014,Poissy,78300
+Audioprothésiste Audika Rambouillet,15 Rue Patenôtre - 78120 Rambouillet (Yvelines),48.641772,1.83037,Rambouillet,78120
+Audioprothésiste Audika Saint-Germain-en-Laye,16 bis Rue des Coches - 78100 Saint-Germain-en-Laye (Yvelines),48.896101,2.093761,Saint-Germain-en-Laye,78100
+Audioprothésiste Audika Versailles,27 Rue du Maréchal Foch - 78000 Versailles (Yvelines),48.807484,2.132452,Versailles,78000
+Audioprothésiste Audika La Baule,54 Avenue Louis Lajarrige - 44500 La Baule (Loire Atlantique),47.281758,-2.36763,La Baule-Escoublac,44500
